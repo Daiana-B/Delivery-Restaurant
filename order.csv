@@ -1,0 +1,1435 @@
+order_id,item_price,quantity,item_cat,item_name,created_at,delivery_address1,delivery_zipcode
+ORD0001,29.99,2,Pizza,Margherita Pizza,2025-01-03 12:30:00,ul. Dluga 25,80-831
+ORD0001,34.99,1,Pizza,Mushroom Pizza,2025-01-03 12:30:00,ul. Dluga 25,80-831
+ORD0001,36.99,2,Pizza,Ham Pizza,2025-01-03 12:30:00,ul. Dluga 25,80-831
+ORD0002,32.99,1,Pizza,Pepperoni Pizza,2025-01-05 13:00:00,ul. Grunwaldzka 102,80-244
+ORD0003,39.99,3,Pizza,Margherita Pizza,2025-01-06 14:45:00,ul. Mariacka 8,80-833
+ORD0003,45.99,1,Pizza,Hawaiian Pizza,2025-01-06 14:45:00,ul. Mariacka 8,80-833
+ORD0004,48.99,2,Pizza,Ham Pizza,2025-01-07 16:00:00,ul. Swietojanska 15,80-840
+ORD0004,29.99,3,Pizza,Margherita Pizza,2025-01-07 16:00:00,ul. Swietojanska 15,80-840
+ORD0005,36.99,2,Pizza,Ham Pizza,2025-01-08 17:10:00,ul. Chlebnicka 22,80-830
+ORD0006,37.99,1,Pizza,Vegetarian Pizza,2025-01-10 18:30:00,ul. Kartuska 305,80-125
+ORD0006,39.99,2,Pizza,Margherita Pizza,2025-01-10 18:30:00,ul. Kartuska 305,80-125
+ORD0007,33.99,1,Pizza,Hawaiian Pizza,2025-01-11 11:00:00,ul. Jaskólcza 19,80-767
+ORD0008,32.99,1,Pizza,Pepperoni Pizza,2025-01-12 13:50:00,ul. Ogarna 87,80-826
+ORD0008,45.99,2,Pizza,Hawaiian Pizza,2025-01-12 13:50:00,ul. Ogarna 87,80-826
+ORD0009,29.99,1,Pizza,Margherita Pizza,2025-01-14 14:30:00,ul. Heweliusza 11,80-890
+ORD0009,34.99,2,Pizza,Mushroom Pizza,2025-01-14 14:30:00,ul. Heweliusza 11,80-890
+ORD0010,46.99,1,Pizza,Mushroom Pizza,2025-01-15 15:20:00,ul. Lawendowa 5,80-840
+ORD0011,44.99,2,Pizza,Pepperoni Pizza,2025-01-16 12:10:00,ul. Partyzantów 32,80-254
+ORD0011,36.99,1,Pizza,Ham Pizza,2025-01-16 12:10:00,ul. Partyzantów 32,80-254
+ORD0012,37.99,3,Pizza,Vegetarian Pizza,2025-01-17 14:00:00,ul. Kolodziejska 3,80-836
+ORD0012,48.99,1,Pizza,Ham Pizza,2025-01-17 14:00:00,ul. Kolodziejska 3,80-836
+ORD0013,29.99,2,Pizza,Margherita Pizza,2025-01-18 16:45:00,ul. Waly Jagiellonskie 9,80-853
+ORD0013,36.99,1,Pizza,Truffle Pizza,2025-01-18 16:45:00,ul. Waly Jagiellonskie 9,80-853
+ORD0014,39.99,2,Pizza,Margherita Pizza,2025-01-19 18:15:00,ul. Rajska 12,80-850
+ORD0015,36.99,1,Pizza,Ham Pizza,2025-01-21 12:30:00,ul. Piwna 26,80-831
+ORD0015,32.99,3,Pizza,Pepperoni Pizza,2025-01-21 12:30:00,ul. Piwna 26,80-831
+ORD0016,34.99,1,Pizza,Mushroom Pizza,2025-01-22 17:50:00,ul. Szeroka 41,80-835
+ORD0017,46.99,2,Pizza,Mushroom Pizza,2025-01-23 15:40:00,ul. Lastadia 17,80-880
+ORD0017,39.99,1,Pizza,Margherita Pizza,2025-01-23 15:40:00,ul. Lastadia 17,80-880
+ORD0018,45.99,2,Pizza,Hawaiian Pizza,2025-01-24 13:30:00,ul. Lakowa 60,80-769
+ORD0019,33.99,1,Pizza,Hawaiian Pizza,2025-01-25 19:00:00,ul. Straganiarska 15,80-837
+ORD0020,32.99,2,Pizza,Pepperoni Pizza,2025-01-26 12:20:00,ul. Zabi Kruk 8,80-822
+ORD0020,37.99,1,Pizza,Vegetarian Pizza,2025-01-26 12:20:00,ul. Zabi Kruk 8,80-822
+ORD0021,34.99,3,Pizza,Mushroom Pizza,2025-01-28 15:10:00,ul. Czopowa 23,80-882
+ORD0021,39.99,1,Pizza,Margherita Pizza,2025-01-28 15:10:00,ul. Czopowa 23,80-882
+ORD0022,36.99,1,Pizza,Ham Pizza,2025-01-29 14:00:00,ul. Angielska Grobla 11,80-756
+ORD0023,29.99,2,Pizza,Margherita Pizza,2025-01-30 16:40:00,ul. Torunska 18,80-747
+ORD0023,44.99,2,Pizza,Pepperoni Pizza,2025-01-30 16:40:00,ul. Torunska 18,80-747
+ORD0024,45.99,1,Pizza,Hawaiian Pizza,2025-02-01 18:20:00,ul. Stara Stocznia 25,80-862
+ORD0024,33.99,3,Pizza,Hawaiian Pizza,2025-02-01 18:20:00,ul. Stara Stocznia 25,80-862
+ORD0025,33.99,2,Pizza,Hawaiian Pizza,2025-02-02 12:00:00,ul. Zielona 9,80-802
+ORD0025,37.99,1,Pizza,Vegetarian Pizza,2025-02-02 12:00:00,ul. Zielona 9,80-802
+ORD0025,32.99,2,Pizza,Pepperoni Pizza,2025-02-02 12:00:00,ul. Zielona 9,80-802
+ORD0025,46.99,1,Pizza,Mushroom Pizza,2025-02-02 12:00:00,ul. Zielona 9,80-802
+ORD0026,39.99,1,Pizza,Margherita Pizza,2025-02-03 14:30:00,ul. Walowa 35,80-858
+ORD0026,45.99,2,Pizza,Hawaiian Pizza,2025-02-03 14:30:00,ul. Walowa 35,80-858
+ORD0026,48.99,1,Pizza,Ham Pizza,2025-02-03 14:30:00,ul. Walowa 35,80-858
+ORD0027,29.99,3,Pizza,Margherita Pizza,2025-02-04 13:20:00,ul. Trakt Swietego Wojciecha 195,80-017
+ORD0027,33.99,1,Pizza,Hawaiian Pizza,2025-02-04 13:20:00,ul. Trakt Swietego Wojciecha 195,80-017
+ORD0027,45.99,2,Pizza,Hawaiian Pizza,2025-02-04 13:20:00,ul. Trakt Swietego Wojciecha 195,80-017
+ORD0028,46.99,1,Pizza,Mushroom Pizza,2025-02-05 15:00:00,ul. Chmielna 101,80-748
+ORD0028,32.99,3,Pizza,Pepperoni Pizza,2025-02-05 15:00:00,ul. Chmielna 101,80-748
+ORD0028,36.99,2,Pizza,Truffle Pizza,2025-02-05 15:00:00,ul. Chmielna 101,80-748
+ORD0029,34.99,1,Pizza,Mushroom Pizza,2025-02-06 12:40:00,ul. Szafarnia 5,80-755
+ORD0029,37.99,1,Pizza,Vegetarian Pizza,2025-02-06 12:40:00,ul. Szafarnia 5,80-755
+ORD0029,45.99,1,Pizza,Hawaiian Pizza,2025-02-06 12:40:00,ul. Szafarnia 5,80-755
+ORD0029,36.99,2,Pizza,Ham Pizza,2025-02-06 12:40:00,ul. Szafarnia 5,80-755
+ORD0030,45.99,1,Pizza,Hawaiian Pizza,2025-02-07 11:10:00,ul. Nowe Ogrody 23,80-803
+ORD0030,29.99,2,Pizza,Margherita Pizza,2025-02-07 11:10:00,ul. Nowe Ogrody 23,80-803
+ORD0030,36.99,1,Pizza,Truffle Pizza,2025-02-07 11:10:00,ul. Nowe Ogrody 23,80-803
+ORD0030,46.99,3,Pizza,Mushroom Pizza,2025-02-07 11:10:00,ul. Nowe Ogrody 23,80-803
+ORD0031,48.99,2,Pizza,Ham Pizza,2025-02-08 14:00:00,ul. Polanki 124,80-308
+ORD0031,29.99,3,Pizza,Margherita Pizza,2025-02-08 14:00:00,ul. Polanki 124,80-308
+ORD0031,33.99,1,Pizza,Hawaiian Pizza,2025-02-08 14:00:00,ul. Polanki 124,80-308
+ORD0032,34.99,2,Pizza,Mushroom Pizza,2025-02-09 15:20:00,ul. Wita Stwosza 58,80-308
+ORD0032,36.99,1,Pizza,Ham Pizza,2025-02-09 15:20:00,ul. Wita Stwosza 58,80-308
+ORD0032,32.99,2,Pizza,Pepperoni Pizza,2025-02-09 15:20:00,ul. Wita Stwosza 58,80-308
+ORD0032,37.99,1,Pizza,Vegetarian Pizza,2025-02-09 15:20:00,ul. Wita Stwosza 58,80-308
+ORD0033,36.99,1,Pizza,Truffle Pizza,2025-02-10 12:30:00,ul. Gospody 6,80-344
+ORD0033,46.99,2,Pizza,Mushroom Pizza,2025-02-10 12:30:00,ul. Gospody 6,80-344
+ORD0033,32.99,2,Pizza,Pepperoni Pizza,2025-02-10 12:30:00,ul. Gospody 6,80-344
+ORD0033,39.99,1,Pizza,Margherita Pizza,2025-02-10 12:30:00,ul. Gospody 6,80-344
+ORD0034,37.99,1,Pizza,Vegetarian Pizza,2025-02-11 14:40:00,ul. Pomorska 94,80-333
+ORD0034,39.99,1,Pizza,Margherita Pizza,2025-02-11 14:40:00,ul. Pomorska 94,80-333
+ORD0034,45.99,2,Pizza,Hawaiian Pizza,2025-02-11 14:40:00,ul. Pomorska 94,80-333
+ORD0035,36.99,3,Pizza,Truffle Pizza,2025-02-12 16:00:00,ul. Jelitkowska 15,80-342
+ORD0035,48.99,1,Pizza,Ham Pizza,2025-02-12 16:00:00,ul. Jelitkowska 15,80-342
+ORD0035,45.99,2,Pizza,Hawaiian Pizza,2025-02-12 16:00:00,ul. Jelitkowska 15,80-342
+ORD0036,29.99,3,Pizza,Margherita Pizza,2025-02-13 14:00:00,ul. Subislawa 23,80-354
+ORD0036,37.99,2,Pizza,Vegetarian Pizza,2025-02-13 14:00:00,ul. Subislawa 23,80-354
+ORD0036,36.99,1,Pizza,Ham Pizza,2025-02-13 14:00:00,ul. Subislawa 23,80-354
+ORD0037,32.99,2,Pizza,Pepperoni Pizza,2025-02-14 15:00:00,ul. Piastowska 70,80-363
+ORD0037,45.99,1,Pizza,Hawaiian Pizza,2025-02-14 15:00:00,ul. Piastowska 70,80-363
+ORD0037,36.99,3,Pizza,Truffle Pizza,2025-02-14 15:00:00,ul. Piastowska 70,80-363
+ORD0038,39.99,1,Pizza,Margherita Pizza,2025-02-15 13:30:00,ul. Obronców Wybrzeza 11,80-398
+ORD0038,36.99,2,Pizza,Ham Pizza,2025-02-15 13:30:00,ul. Obronców Wybrzeza 11,80-398
+ORD0038,46.99,3,Pizza,Mushroom Pizza,2025-02-15 13:30:00,ul. Obronców Wybrzeza 11,80-398
+ORD0039,37.99,2,Pizza,Vegetarian Pizza,2025-02-16 14:20:00,ul. Kolobrzeska 9,80-394
+ORD0039,48.99,1,Pizza,Ham Pizza,2025-02-16 14:20:00,ul. Kolobrzeska 9,80-394
+ORD0039,36.99,2,Pizza,Truffle Pizza,2025-02-16 14:20:00,ul. Kolobrzeska 9,80-394
+ORD0040,36.99,1,Pizza,Ham Pizza,2025-02-17 12:30:00,ul. Leborska 18,80-386
+ORD0040,32.99,2,Pizza,Pepperoni Pizza,2025-02-17 12:30:00,ul. Leborska 18,80-386
+ORD0040,29.99,3,Pizza,Margherita Pizza,2025-02-17 12:30:00,ul. Leborska 18,80-386
+ORD0040,46.99,2,Pizza,Mushroom Pizza,2025-02-17 12:30:00,ul. Leborska 18,80-386
+ORD0041,33.99,3,Pizza,Hawaiian Pizza,2025-02-18 13:10:00,ul. Hynka 27,80-465
+ORD0041,37.99,2,Pizza,Vegetarian Pizza,2025-02-18 13:10:00,ul. Hynka 27,80-465
+ORD0041,34.99,1,Pizza,Mushroom Pizza,2025-02-18 13:10:00,ul. Hynka 27,80-465
+ORD0042,39.99,2,Pizza,Margherita Pizza,2025-02-19 11:30:00,ul. Zlota Karczma 35,80-298
+ORD0042,36.99,3,Pizza,Ham Pizza,2025-02-19 11:30:00,ul. Zlota Karczma 35,80-298
+ORD0042,29.99,1,Pizza,Margherita Pizza,2025-02-19 11:30:00,ul. Zlota Karczma 35,80-298
+ORD0043,46.99,3,Pizza,Mushroom Pizza,2025-02-20 12:40:00,ul. Slowackiego 50,80-257
+ORD0043,37.99,1,Pizza,Vegetarian Pizza,2025-02-20 12:40:00,ul. Slowackiego 50,80-257
+ORD0043,48.99,2,Pizza,Ham Pizza,2025-02-20 12:40:00,ul. Slowackiego 50,80-257
+ORD0044,34.99,1,Pizza,Mushroom Pizza,2025-02-21 14:50:00,ul. Wrzeszczanska 21,80-419
+ORD0044,36.99,2,Pizza,Ham Pizza,2025-02-21 14:50:00,ul. Wrzeszczanska 21,80-419
+ORD0044,39.99,3,Pizza,Margherita Pizza,2025-02-21 14:50:00,ul. Wrzeszczanska 21,80-419
+ORD0045,33.99,2,Pizza,Hawaiian Pizza,2025-02-22 15:20:00,ul. Migowska 77,80-287
+ORD0045,45.99,3,Pizza,Hawaiian Pizza,2025-02-22 15:20:00,ul. Migowska 77,80-287
+ORD0045,46.99,1,Pizza,Mushroom Pizza,2025-02-22 15:20:00,ul. Migowska 77,80-287
+ORD0046,29.99,2,Pizza,Margherita Pizza,2025-02-23 16:30:00,ul. Piecewska 34,80-288
+ORD0046,36.99,1,Pizza,Truffle Pizza,2025-02-23 16:30:00,ul. Piecewska 34,80-288
+ORD0046,32.99,3,Pizza,Pepperoni Pizza,2025-02-23 16:30:00,ul. Piecewska 34,80-288
+ORD0047,37.99,1,Pizza,Vegetarian Pizza,2025-02-24 17:40:00,ul. Mysliwska 47,80-283
+ORD0047,46.99,3,Pizza,Mushroom Pizza,2025-02-24 17:40:00,ul. Mysliwska 47,80-283
+ORD0047,33.99,2,Pizza,Hawaiian Pizza,2025-02-24 17:40:00,ul. Mysliwska 47,80-283
+ORD0048,36.99,3,Pizza,Truffle Pizza,2025-02-25 12:20:00,ul. Kartuska 400,80-125
+ORD0048,48.99,1,Pizza,Ham Pizza,2025-02-25 12:20:00,ul. Kartuska 400,80-125
+ORD0048,36.99,2,Pizza,Ham Pizza,2025-02-25 12:20:00,ul. Kartuska 400,80-125
+ORD0049,34.99,2,Pizza,Mushroom Pizza,2025-02-26 14:00:00,ul. Jabloniowa 20,80-180
+ORD0049,32.99,1,Pizza,Pepperoni Pizza,2025-02-26 14:00:00,ul. Jabloniowa 20,80-180
+ORD0049,45.99,1,Pizza,Hawaiian Pizza,2025-02-26 14:00:00,ul. Jabloniowa 20,80-180
+ORD0050,45.99,1,Pizza,Hawaiian Pizza,2025-02-27 13:10:00,ul. Cedrowa 35,80-126
+ORD0050,32.99,3,Pizza,Pepperoni Pizza,2025-02-27 13:10:00,ul. Cedrowa 35,80-126
+ORD0050,37.99,2,Pizza,Vegetarian Pizza,2025-02-27 13:10:00,ul. Cedrowa 35,80-126
+ORD0051,29.99,1,Pizza,Margherita Pizza,2025-02-28 12:00:00,ul. Warszawska 70,80-180
+ORD0051,46.99,2,Pizza,Mushroom Pizza,2025-02-28 12:00:00,ul. Warszawska 70,80-180
+ORD0051,36.99,3,Pizza,Truffle Pizza,2025-02-28 12:00:00,ul. Warszawska 70,80-180
+ORD0052,32.99,2,Pizza,Pepperoni Pizza,2025-02-01 13:30:00,ul. Swietokrzyska 97,80-180
+ORD0052,37.99,1,Pizza,Vegetarian Pizza,2025-02-01 13:30:00,ul. Swietokrzyska 97,80-180
+ORD0052,33.99,1,Pizza,Hawaiian Pizza,2025-02-01 13:30:00,ul. Swietokrzyska 97,80-180
+ORD0053,36.99,2,Pizza,Ham Pizza,2025-02-02 14:40:00,ul. Czluchowska 21,80-180
+ORD0053,37.99,1,Pizza,Vegetarian Pizza,2025-02-02 14:40:00,ul. Czluchowska 21,80-180
+ORD0053,46.99,1,Pizza,Mushroom Pizza,2025-02-02 14:40:00,ul. Czluchowska 21,80-180
+ORD0054,36.99,3,Pizza,Truffle Pizza,2025-02-03 15:50:00,ul. Starogardzka 12,80-180
+ORD0054,32.99,2,Pizza,Pepperoni Pizza,2025-02-03 15:50:00,ul. Starogardzka 12,80-180
+ORD0054,39.99,1,Pizza,Margherita Pizza,2025-02-03 15:50:00,ul. Starogardzka 12,80-180
+ORD0055,29.99,2,Pizza,Margherita Pizza,2025-02-04 11:40:00,ul. Stoczniowców 29,80-299
+ORD0055,46.99,3,Pizza,Mushroom Pizza,2025-02-04 11:40:00,ul. Stoczniowców 29,80-299
+ORD0055,45.99,1,Pizza,Hawaiian Pizza,2025-02-04 11:40:00,ul. Stoczniowców 29,80-299
+ORD0056,36.99,2,Pizza,Ham Pizza,2025-02-05 12:30:00,ul. Sucha 17,80-530
+ORD0056,37.99,1,Pizza,Vegetarian Pizza,2025-02-05 12:30:00,ul. Sucha 17,80-530
+ORD0056,33.99,3,Pizza,Hawaiian Pizza,2025-02-05 12:30:00,ul. Sucha 17,80-530
+ORD0057,34.99,1,Pizza,Mushroom Pizza,2025-02-06 14:20:00,ul. Stoczniowców 12,80-862
+ORD0057,36.99,2,Pizza,Truffle Pizza,2025-02-06 14:20:00,ul. Stoczniowców 12,80-862
+ORD0057,39.99,1,Pizza,Margherita Pizza,2025-02-06 14:20:00,ul. Stoczniowców 12,80-862
+ORD0058,33.99,2,Pizza,Hawaiian Pizza,2025-02-07 11:10:00,ul. Sucha 7,80-531
+ORD0058,37.99,3,Pizza,Vegetarian Pizza,2025-02-07 11:10:00,ul. Sucha 7,80-531
+ORD0058,32.99,1,Pizza,Pepperoni Pizza,2025-02-07 11:10:00,ul. Sucha 7,80-531
+ORD0059,46.99,1,Pizza,Mushroom Pizza,2025-02-08 13:30:00,ul. Ptasia 23,80-880
+ORD0059,36.99,2,Pizza,Ham Pizza,2025-02-08 13:30:00,ul. Ptasia 23,80-880
+ORD0059,29.99,3,Pizza,Margherita Pizza,2025-02-08 13:30:00,ul. Ptasia 23,80-880
+ORD0060,32.99,2,Pizza,Pepperoni Pizza,2025-02-09 12:40:00,ul. Rycerska 15,80-855
+ORD0060,36.99,1,Pizza,Truffle Pizza,2025-02-09 12:40:00,ul. Rycerska 15,80-855
+ORD0060,48.99,3,Pizza,Ham Pizza,2025-02-09 12:40:00,ul. Rycerska 15,80-855
+ORD0061,39.99,2,Pizza,Margherita Pizza,2025-02-10 14:30:00,ul. Jesionowa 8,80-261
+ORD0061,45.99,1,Pizza,Hawaiian Pizza,2025-02-10 14:30:00,ul. Jesionowa 8,80-261
+ORD0061,34.99,3,Pizza,Mushroom Pizza,2025-02-10 14:30:00,ul. Jesionowa 8,80-261
+ORD0062,29.99,1,Pizza,Margherita Pizza,2025-02-11 11:50:00,ul. Browarna 4,80-859
+ORD0062,37.99,2,Pizza,Vegetarian Pizza,2025-02-11 11:50:00,ul. Browarna 4,80-859
+ORD0062,32.99,3,Pizza,Pepperoni Pizza,2025-02-11 11:50:00,ul. Browarna 4,80-859
+ORD0063,34.99,2,Pizza,Mushroom Pizza,2025-02-12 12:00:00,ul. Wierzbowa 19,80-140
+ORD0063,39.99,1,Pizza,Margherita Pizza,2025-02-12 12:00:00,ul. Wierzbowa 19,80-140
+ORD0063,48.99,3,Pizza,Ham Pizza,2025-02-12 12:00:00,ul. Wierzbowa 19,80-140
+ORD0064,33.99,2,Pizza,Hawaiian Pizza,2025-02-13 15:20:00,ul. Liliowa 33,80-299
+ORD0064,46.99,3,Pizza,Mushroom Pizza,2025-02-13 15:20:00,ul. Liliowa 33,80-299
+ORD0064,29.99,1,Pizza,Margherita Pizza,2025-02-13 15:20:00,ul. Liliowa 33,80-299
+ORD0065,36.99,3,Pizza,Ham Pizza,2025-02-14 14:10:00,ul. Swidnicka 14,80-168
+ORD0065,37.99,1,Pizza,Vegetarian Pizza,2025-02-14 14:10:00,ul. Swidnicka 14,80-168
+ORD0065,32.99,2,Pizza,Pepperoni Pizza,2025-02-14 14:10:00,ul. Swidnicka 14,80-168
+ORD0066,39.99,1,Pizza,Margherita Pizza,2025-02-15 13:30:00,ul. Opacka 27,80-338
+ORD0066,45.99,2,Pizza,Hawaiian Pizza,2025-02-15 13:30:00,ul. Opacka 27,80-338
+ORD0066,34.99,3,Pizza,Mushroom Pizza,2025-02-15 13:30:00,ul. Opacka 27,80-338
+ORD0067,33.99,1,Pizza,Hawaiian Pizza,2025-02-16 14:50:00,ul. Karpacka 5,80-144
+ORD0067,37.99,2,Pizza,Vegetarian Pizza,2025-02-16 14:50:00,ul. Karpacka 5,80-144
+ORD0067,29.99,3,Pizza,Margherita Pizza,2025-02-16 14:50:00,ul. Karpacka 5,80-144
+ORD0068,34.99,3,Pizza,Mushroom Pizza,2025-02-17 11:40:00,ul. Kosciuszki 49,80-408
+ORD0068,39.99,2,Pizza,Margherita Pizza,2025-02-17 11:40:00,ul. Kosciuszki 49,80-408
+ORD0068,46.99,1,Pizza,Mushroom Pizza,2025-02-17 11:40:00,ul. Kosciuszki 49,80-408
+ORD0069,45.99,1,Pizza,Hawaiian Pizza,2025-02-18 14:10:00,ul. Startowa 11,80-391
+ORD0069,36.99,3,Pizza,Ham Pizza,2025-02-18 14:10:00,ul. Startowa 11,80-391
+ORD0069,37.99,2,Pizza,Vegetarian Pizza,2025-02-18 14:10:00,ul. Startowa 11,80-391
+ORD0070,32.99,2,Pizza,Pepperoni Pizza,2025-02-19 12:50:00,ul. Polna 6,80-305
+ORD0070,46.99,3,Pizza,Mushroom Pizza,2025-02-19 12:50:00,ul. Polna 6,80-305
+ORD0070,36.99,1,Pizza,Truffle Pizza,2025-02-19 12:50:00,ul. Polna 6,80-305
+ORD0071,45.99,1,Pizza,Hawaiian Pizza,2025-02-20 11:30:00,ul. Górnicza 3,80-314
+ORD0071,34.99,2,Pizza,Mushroom Pizza,2025-02-20 11:30:00,ul. Górnicza 3,80-314
+ORD0071,37.99,1,Pizza,Vegetarian Pizza,2025-02-20 11:30:00,ul. Górnicza 3,80-314
+ORD0072,36.99,3,Pizza,Ham Pizza,2025-02-21 12:20:00,ul. Wczasowa 9,80-516
+ORD0072,39.99,1,Pizza,Margherita Pizza,2025-02-21 12:20:00,ul. Wczasowa 9,80-516
+ORD0072,29.99,2,Pizza,Margherita Pizza,2025-02-21 12:20:00,ul. Wczasowa 9,80-516
+ORD0073,37.99,2,Pizza,Vegetarian Pizza,2025-02-22 14:00:00,ul. Targ Sienny 7,80-806
+ORD0073,46.99,3,Pizza,Mushroom Pizza,2025-02-22 14:00:00,ul. Targ Sienny 7,80-806
+ORD0073,36.99,1,Pizza,Ham Pizza,2025-02-22 14:00:00,ul. Targ Sienny 7,80-806
+ORD0074,34.99,2,Pizza,Mushroom Pizza,2025-02-23 13:10:00,ul. Oliwska 41,80-563
+ORD0074,39.99,3,Pizza,Margherita Pizza,2025-02-23 13:10:00,ul. Oliwska 41,80-563
+ORD0074,36.99,1,Pizza,Truffle Pizza,2025-02-23 13:10:00,ul. Oliwska 41,80-563
+ORD0075,33.99,2,Pizza,Hawaiian Pizza,2025-02-24 11:30:00,ul. Widokowa 32,80-172
+ORD0075,32.99,1,Pizza,Pepperoni Pizza,2025-02-24 11:30:00,ul. Widokowa 32,80-172
+ORD0075,36.99,3,Pizza,Ham Pizza,2025-02-24 11:30:00,ul. Widokowa 32,80-172
+ORD0076,29.99,2,Pizza,Margherita Pizza,2025-02-25 14:20:00,ul. Krótka 21,80-279
+ORD0076,34.99,1,Pizza,Mushroom Pizza,2025-02-25 14:20:00,ul. Krótka 21,80-279
+ORD0076,45.99,3,Pizza,Hawaiian Pizza,2025-02-25 14:20:00,ul. Krótka 21,80-279
+ORD0077,37.99,3,Pizza,Vegetarian Pizza,2025-02-26 12:00:00,ul. Stalowa 18,80-434
+ORD0077,39.99,1,Pizza,Margherita Pizza,2025-02-26 12:00:00,ul. Stalowa 18,80-434
+ORD0077,34.99,2,Pizza,Mushroom Pizza,2025-02-26 12:00:00,ul. Stalowa 18,80-434
+ORD0078,46.99,1,Pizza,Mushroom Pizza,2025-02-27 13:40:00,ul. Jantarowa 22,80-347
+ORD0078,36.99,2,Pizza,Truffle Pizza,2025-02-27 13:40:00,ul. Jantarowa 22,80-347
+ORD0078,29.99,3,Pizza,Margherita Pizza,2025-02-27 13:40:00,ul. Jantarowa 22,80-347
+ORD0079,32.99,1,Pizza,Pepperoni Pizza,2025-02-28 11:20:00,ul. Wita Stwosza 56,80-312
+ORD0079,45.99,2,Pizza,Hawaiian Pizza,2025-02-28 11:20:00,ul. Wita Stwosza 56,80-312
+ORD0079,37.99,3,Pizza,Vegetarian Pizza,2025-02-28 11:20:00,ul. Wita Stwosza 56,80-312
+ORD0080,39.99,1,Pizza,Margherita Pizza,2025-02-28 14:30:00,ul. Szczesliwa 19,80-176
+ORD0080,36.99,3,Pizza,Truffle Pizza,2025-02-28 14:30:00,ul. Szczesliwa 19,80-176
+ORD0080,36.99,2,Pizza,Ham Pizza,2025-02-28 14:30:00,ul. Szczesliwa 19,80-176
+ORD0081,46.99,1,Pizza,Mushroom Pizza,2025-02-28 13:00:00,ul. Bohaterów Getta 8,80-831
+ORD0081,48.99,3,Pizza,Ham Pizza,2025-02-28 13:00:00,ul. Bohaterów Getta 8,80-831
+ORD0081,37.99,2,Pizza,Vegetarian Pizza,2025-02-28 13:00:00,ul. Bohaterów Getta 8,80-831
+ORD0082,33.99,2,Pizza,Hawaiian Pizza,2025-02-28 12:10:00,ul. Lódzka 99,80-388
+ORD0082,34.99,3,Pizza,Mushroom Pizza,2025-02-28 12:10:00,ul. Lódzka 99,80-388
+ORD0082,39.99,1,Pizza,Margherita Pizza,2025-02-28 12:10:00,ul. Lódzka 99,80-388
+ORD0083,36.99,1,Pizza,Ham Pizza,2025-02-27 14:40:00,ul. Piastowska 65,80-358
+ORD0083,45.99,2,Pizza,Hawaiian Pizza,2025-02-27 14:40:00,ul. Piastowska 65,80-358
+ORD0083,46.99,3,Pizza,Mushroom Pizza,2025-02-27 14:40:00,ul. Piastowska 65,80-358
+ORD0084,29.99,1,Pizza,Margherita Pizza,2025-02-26 12:30:00,ul. Jodlowa 77,80-297
+ORD0084,37.99,2,Pizza,Vegetarian Pizza,2025-02-26 12:30:00,ul. Jodlowa 77,80-297
+ORD0084,34.99,3,Pizza,Mushroom Pizza,2025-02-26 12:30:00,ul. Jodlowa 77,80-297
+ORD0085,46.99,2,Pizza,Mushroom Pizza,2025-02-25 13:40:00,ul. Astronomów 10,80-299
+ORD0085,48.99,3,Pizza,Ham Pizza,2025-02-25 13:40:00,ul. Astronomów 10,80-299
+ORD0085,36.99,1,Pizza,Ham Pizza,2025-02-25 13:40:00,ul. Astronomów 10,80-299
+ORD0086,34.99,3,Pizza,Mushroom Pizza,2025-02-24 11:10:00,ul. Kamienna 23,80-306
+ORD0086,32.99,1,Pizza,Pepperoni Pizza,2025-02-24 11:10:00,ul. Kamienna 23,80-306
+ORD0086,36.99,2,Pizza,Ham Pizza,2025-02-24 11:10:00,ul. Kamienna 23,80-306
+ORD0087,37.99,3,Pizza,Vegetarian Pizza,2025-02-23 14:00:00,ul. Krzyzowa 16,80-165
+ORD0087,36.99,1,Pizza,Truffle Pizza,2025-02-23 14:00:00,ul. Krzyzowa 16,80-165
+ORD0087,29.99,2,Pizza,Margherita Pizza,2025-02-23 14:00:00,ul. Krzyzowa 16,80-165
+ORD0088,39.99,1,Pizza,Margherita Pizza,2025-02-23 13:30:00,ul. Spacerowa 50,80-330
+ORD0088,36.99,2,Pizza,Truffle Pizza,2025-02-23 13:30:00,ul. Spacerowa 50,80-330
+ORD0088,36.99,3,Pizza,Ham Pizza,2025-02-23 13:30:00,ul. Spacerowa 50,80-330
+ORD0089,29.99,2,Pizza,Margherita Pizza,2025-02-22 12:40:00,ul. Na Wzgórzu 13,80-282
+ORD0089,34.99,1,Pizza,Mushroom Pizza,2025-02-22 12:40:00,ul. Na Wzgórzu 13,80-282
+ORD0089,46.99,3,Pizza,Mushroom Pizza,2025-02-22 12:40:00,ul. Na Wzgórzu 13,80-282
+ORD0090,48.99,1,Pizza,Ham Pizza,2025-02-21 14:20:00,ul. Brzozowa 14,80-176
+ORD0090,32.99,3,Pizza,Pepperoni Pizza,2025-02-21 14:20:00,ul. Brzozowa 14,80-176
+ORD0090,37.99,2,Pizza,Vegetarian Pizza,2025-02-21 14:20:00,ul. Brzozowa 14,80-176
+ORD0091,46.99,2,Pizza,Mushroom Pizza,2025-02-20 13:00:00,ul. Fiolkowa 4,80-177
+ORD0091,36.99,3,Pizza,Ham Pizza,2025-02-20 13:00:00,ul. Fiolkowa 4,80-177
+ORD0091,39.99,1,Pizza,Margherita Pizza,2025-02-20 13:00:00,ul. Fiolkowa 4,80-177
+ORD0092,34.99,3,Pizza,Mushroom Pizza,2025-02-19 14:10:00,ul. Malczewskiego 55,80-275
+ORD0092,45.99,2,Pizza,Hawaiian Pizza,2025-02-19 14:10:00,ul. Malczewskiego 55,80-275
+ORD0092,37.99,1,Pizza,Vegetarian Pizza,2025-02-19 14:10:00,ul. Malczewskiego 55,80-275
+ORD0093,29.99,2,Pizza,Margherita Pizza,2025-02-18 13:20:00,ul. Sloneczna 28,80-180
+ORD0093,48.99,3,Pizza,Ham Pizza,2025-02-18 13:20:00,ul. Sloneczna 28,80-180
+ORD0093,36.99,1,Pizza,Ham Pizza,2025-02-18 13:20:00,ul. Sloneczna 28,80-180
+ORD0094,32.99,1,Pizza,Pepperoni Pizza,2025-02-17 11:00:00,ul. Slowackiego 99,80-390
+ORD0094,37.99,2,Pizza,Vegetarian Pizza,2025-02-17 11:00:00,ul. Slowackiego 99,80-390
+ORD0094,46.99,3,Pizza,Mushroom Pizza,2025-02-17 11:00:00,ul. Slowackiego 99,80-390
+ORD0095,36.99,2,Pizza,Truffle Pizza,2025-02-16 13:10:00,ul. Reduta Wyskok 9,80-706
+ORD0095,29.99,3,Pizza,Margherita Pizza,2025-02-16 13:10:00,ul. Reduta Wyskok 9,80-706
+ORD0095,34.99,1,Pizza,Mushroom Pizza,2025-02-16 13:10:00,ul. Reduta Wyskok 9,80-706
+ORD0096,36.99,1,Pizza,Ham Pizza,2025-02-15 14:50:00,ul. Podwale Staromiejskie 3,80-844
+ORD0096,32.99,2,Pizza,Pepperoni Pizza,2025-02-15 14:50:00,ul. Podwale Staromiejskie 3,80-844
+ORD0096,39.99,3,Pizza,Margherita Pizza,2025-02-15 14:50:00,ul. Podwale Staromiejskie 3,80-844
+ORD0097,45.99,1,Pizza,Hawaiian Pizza,2025-02-14 11:30:00,ul. Bajeczna 25,80-684
+ORD0097,48.99,2,Pizza,Ham Pizza,2025-02-14 11:30:00,ul. Bajeczna 25,80-684
+ORD0097,37.99,3,Pizza,Vegetarian Pizza,2025-02-14 11:30:00,ul. Bajeczna 25,80-684
+ORD0098,39.99,3,Pizza,Margherita Pizza,2025-02-13 12:00:00,ul. Jabloniowa 41,80-180
+ORD0098,36.99,2,Pizza,Ham Pizza,2025-02-13 12:00:00,ul. Jabloniowa 41,80-180
+ORD0098,37.99,1,Pizza,Vegetarian Pizza,2025-02-13 12:00:00,ul. Jabloniowa 41,80-180
+ORD0099,29.99,1,Pizza,Margherita Pizza,2025-02-12 15:30:00,ul. Konwaliowa 9,80-297
+ORD0099,46.99,2,Pizza,Mushroom Pizza,2025-02-12 15:30:00,ul. Konwaliowa 9,80-297
+ORD0099,32.99,3,Pizza,Pepperoni Pizza,2025-02-12 15:30:00,ul. Konwaliowa 9,80-297
+ORD0100,37.99,1,Pizza,Vegetarian Pizza,2025-02-11 16:00:00,ul. Magnoliowa 5,80-301
+ORD0100,36.99,2,Pizza,Ham Pizza,2025-02-11 16:00:00,ul. Magnoliowa 5,80-301
+ORD0100,39.99,3,Pizza,Margherita Pizza,2025-02-11 16:00:00,ul. Magnoliowa 5,80-301
+ORD0101,29.99,2,Pizza,Margherita Pizza,2025-02-10 14:30:00,ul. Morska 38,80-706
+ORD0101,34.99,1,Pizza,Mushroom Pizza,2025-02-10 14:30:00,ul. Morska 38,80-706
+ORD0101,46.99,3,Pizza,Mushroom Pizza,2025-02-10 14:30:00,ul. Morska 38,80-706
+ORD0102,32.99,1,Pizza,Pepperoni Pizza,2025-02-09 11:10:00,ul. Królewska 6,80-340
+ORD0102,36.99,2,Pizza,Truffle Pizza,2025-02-09 11:10:00,ul. Królewska 6,80-340
+ORD0102,36.99,3,Pizza,Ham Pizza,2025-02-09 11:10:00,ul. Królewska 6,80-340
+ORD0103,48.99,1,Pizza,Ham Pizza,2025-02-08 14:40:00,ul. Pilotów 19,80-460
+ORD0103,29.99,2,Pizza,Margherita Pizza,2025-02-08 14:40:00,ul. Pilotów 19,80-460
+ORD0103,45.99,3,Pizza,Hawaiian Pizza,2025-02-08 14:40:00,ul. Pilotów 19,80-460
+ORD0104,39.99,3,Pizza,Margherita Pizza,2025-02-07 16:10:00,ul. Pomorska 73,80-343
+ORD0104,32.99,2,Pizza,Pepperoni Pizza,2025-02-07 16:10:00,ul. Pomorska 73,80-343
+ORD0104,46.99,1,Pizza,Mushroom Pizza,2025-02-07 16:10:00,ul. Pomorska 73,80-343
+ORD0105,36.99,2,Pizza,Ham Pizza,2025-02-06 17:00:00,ul. Gospody 8,80-344
+ORD0105,45.99,3,Pizza,Hawaiian Pizza,2025-02-06 17:00:00,ul. Gospody 8,80-344
+ORD0105,37.99,1,Pizza,Vegetarian Pizza,2025-02-06 17:00:00,ul. Gospody 8,80-344
+ORD0106,29.99,3,Pizza,Margherita Pizza,2025-02-05 14:10:00,ul. Targ Rybny 11,80-838
+ORD0106,48.99,2,Pizza,Ham Pizza,2025-02-05 14:10:00,ul. Targ Rybny 11,80-838
+ORD0106,46.99,1,Pizza,Mushroom Pizza,2025-02-05 14:10:00,ul. Targ Rybny 11,80-838
+ORD0107,32.99,2,Pizza,Pepperoni Pizza,2025-02-04 16:30:00,ul. Sucha 29,80-531
+ORD0107,36.99,1,Pizza,Truffle Pizza,2025-02-04 16:30:00,ul. Sucha 29,80-531
+ORD0107,36.99,3,Pizza,Ham Pizza,2025-02-04 16:30:00,ul. Sucha 29,80-531
+ORD0108,34.99,1,Pizza,Mushroom Pizza,2025-02-03 14:20:00,ul. Cienista 20,80-768
+ORD0108,39.99,3,Pizza,Margherita Pizza,2025-02-03 14:20:00,ul. Cienista 20,80-768
+ORD0108,45.99,2,Pizza,Hawaiian Pizza,2025-02-03 14:20:00,ul. Cienista 20,80-768
+ORD0109,29.99,2,Pizza,Margherita Pizza,2025-02-02 12:40:00,ul. Chlopska 48,80-368
+ORD0109,36.99,3,Pizza,Ham Pizza,2025-02-02 12:40:00,ul. Chlopska 48,80-368
+ORD0110,39.99,3,Pizza,Margherita Pizza,2025-02-01 17:10:00,ul. Wisniowa 16,80-299
+ORD0110,37.99,2,Pizza,Vegetarian Pizza,2025-02-01 17:10:00,ul. Wisniowa 16,80-299
+ORD0110,34.99,1,Pizza,Mushroom Pizza,2025-02-01 17:10:00,ul. Wisniowa 16,80-299
+ORD0111,33.99,2,Pizza,Hawaiian Pizza,2025-01-31 16:00:00,ul. Czeresniowa 3,80-176
+ORD0111,44.99,1,Pizza,Pepperoni Pizza,2025-01-31 16:00:00,ul. Czeresniowa 3,80-176
+ORD0111,49.99,3,Pizza,Vegetarian Pizza,2025-01-31 16:00:00,ul. Czeresniowa 3,80-176
+ORD0112,32.99,1,Pizza,Pepperoni Pizza,2025-01-30 15:40:00,ul. Poziomkowa 22,80-180
+ORD0112,29.99,3,Pizza,Margherita Pizza,2025-01-30 15:40:00,ul. Poziomkowa 22,80-180
+ORD0112,36.99,2,Pizza,Ham Pizza,2025-01-30 15:40:00,ul. Poziomkowa 22,80-180
+ORD0113,37.99,1,Pizza,Vegetarian Pizza,2025-01-29 14:50:00,ul. Golebia 9,80-299
+ORD0113,46.99,3,Pizza,Mushroom Pizza,2025-01-29 14:50:00,ul. Golebia 9,80-299
+ORD0113,45.99,2,Pizza,Hawaiian Pizza,2025-01-29 14:50:00,ul. Golebia 9,80-299
+ORD0114,38.99,3,Pizza,Ricotta Pizza,2025-01-28 18:10:00,ul. Sokola 15,80-180
+ORD0114,44.99,2,Pizza,Pepperoni Pizza,2025-01-28 18:10:00,ul. Sokola 15,80-180
+ORD0114,29.99,1,Pizza,Margherita Pizza,2025-01-28 18:10:00,ul. Sokola 15,80-180
+ORD0115,39.99,1,Pizza,Margherita Pizza,2025-01-27 12:20:00,ul. Zurawia 5,80-299
+ORD0115,33.99,2,Pizza,Hawaiian Pizza,2025-01-27 12:20:00,ul. Zurawia 5,80-299
+ORD0115,36.99,3,Pizza,Ham Pizza,2025-01-27 12:20:00,ul. Zurawia 5,80-299
+ORD0116,37.99,2,Pizza,Vegetarian Pizza,2025-01-26 16:40:00,ul. Orla 12,80-176
+ORD0116,48.99,3,Pizza,Ham Pizza,2025-01-26 16:40:00,ul. Orla 12,80-176
+ORD0116,34.99,1,Pizza,Mushroom Pizza,2025-01-26 16:40:00,ul. Orla 12,80-176
+ORD0117,32.99,3,Pizza,Pepperoni Pizza,2025-01-25 18:30:00,ul. Blawatna 14,80-180
+ORD0117,39.99,2,Pizza,Margherita Pizza,2025-01-25 18:30:00,ul. Blawatna 14,80-180
+ORD0117,45.99,1,Pizza,Hawaiian Pizza,2025-01-25 18:30:00,ul. Blawatna 14,80-180
+ORD0118,46.99,2,Pizza,Mushroom Pizza,2025-01-24 15:50:00,ul. Wilcza 10,80-299
+ORD0118,29.99,1,Pizza,Margherita Pizza,2025-01-24 15:50:00,ul. Wilcza 10,80-299
+ORD0118,36.99,3,Pizza,Ham Pizza,2025-01-24 15:50:00,ul. Wilcza 10,80-299
+ORD0119,44.99,1,Pizza,Pepperoni Pizza,2025-01-23 17:10:00,ul. Lisia 3,80-180
+ORD0119,37.99,3,Pizza,Vegetarian Pizza,2025-01-23 17:10:00,ul. Lisia 3,80-180
+ORD0119,49.99,2,Pizza,Vegetarian Pizza,2025-01-23 17:10:00,ul. Lisia 3,80-180
+ORD0120,36.99,2,Pizza,Ham Pizza,2025-01-22 12:00:00,ul. Losia 6,80-299
+ORD0120,46.99,3,Pizza,Mushroom Pizza,2025-01-22 12:00:00,ul. Losia 6,80-299
+ORD0120,32.99,1,Pizza,Pepperoni Pizza,2025-01-22 12:00:00,ul. Losia 6,80-299
+ORD0121,45.99,2,Pizza,Hawaiian Pizza,2025-01-21 18:00:00,ul. Dzieciola 21,80-176
+ORD0121,29.99,3,Pizza,Margherita Pizza,2025-01-21 18:00:00,ul. Dzieciola 21,80-176
+ORD0121,37.99,1,Pizza,Vegetarian Pizza,2025-01-21 18:00:00,ul. Dzieciola 21,80-176
+ORD0122,32.99,3,Pizza,Pepperoni Pizza,2025-01-20 16:10:00,ul. Zbikowa 5,80-180
+ORD0122,34.99,2,Pizza,Mushroom Pizza,2025-01-20 16:10:00,ul. Zbikowa 5,80-180
+ORD0122,39.99,1,Pizza,Margherita Pizza,2025-01-20 16:10:00,ul. Zbikowa 5,80-180
+ORD0123,33.99,1,Pizza,Hawaiian Pizza,2025-01-19 13:00:00,ul. Jastrzebia 11,80-299
+ORD0123,46.99,3,Pizza,Mushroom Pizza,2025-01-19 13:00:00,ul. Jastrzebia 11,80-299
+ORD0123,37.99,2,Pizza,Vegetarian Pizza,2025-01-19 13:00:00,ul. Jastrzebia 11,80-299
+ORD0124,34.99,1,Pizza,Mushroom Pizza,2025-01-18 14:40:00,ul. Sokola 15,80-180
+ORD0124,39.99,2,Pizza,Margherita Pizza,2025-01-18 14:40:00,ul. Sokola 15,80-180
+ORD0124,49.99,3,Pizza,Vegetarian Pizza,2025-01-18 14:40:00,ul. Sokola 15,80-180
+ORD0125,44.99,1,Pizza,Pepperoni Pizza,2025-01-17 16:30:00,ul. Kartuska 342,80-125
+ORD0125,37.99,2,Pizza,Vegetarian Pizza,2025-01-17 16:30:00,ul. Kartuska 342,80-125
+ORD0125,29.99,3,Pizza,Margherita Pizza,2025-01-17 16:30:00,ul. Kartuska 342,80-125
+ORD0126,39.99,1,Pizza,Margherita Pizza,2025-01-16 15:20:00,ul. Mysliwska 23,80-283
+ORD0126,46.99,2,Pizza,Mushroom Pizza,2025-01-16 15:20:00,ul. Mysliwska 23,80-283
+ORD0126,36.99,3,Pizza,Ham Pizza,2025-01-16 15:20:00,ul. Mysliwska 23,80-283
+ORD0127,37.99,2,Pizza,Vegetarian Pizza,2025-01-15 12:30:00,ul. Guderskiego 8,80-180
+ORD0127,33.99,3,Pizza,Hawaiian Pizza,2025-01-15 12:30:00,ul. Guderskiego 8,80-180
+ORD0127,29.99,1,Pizza,Margherita Pizza,2025-01-15 12:30:00,ul. Guderskiego 8,80-180
+ORD0128,49.99,3,Pizza,Vegetarian Pizza,2025-01-14 17:40:00,ul. Cieszynskiego 14,80-809
+ORD0128,39.99,2,Pizza,Margherita Pizza,2025-01-14 17:40:00,ul. Cieszynskiego 14,80-809
+ORD0128,36.99,1,Pizza,Ham Pizza,2025-01-14 17:40:00,ul. Cieszynskiego 14,80-809
+ORD0129,46.99,2,Pizza,Mushroom Pizza,2025-01-13 18:50:00,ul. Porebskiego 17,80-180
+ORD0129,37.99,3,Pizza,Vegetarian Pizza,2025-01-13 18:50:00,ul. Porebskiego 17,80-180
+ORD0129,32.99,1,Pizza,Pepperoni Pizza,2025-01-13 18:50:00,ul. Porebskiego 17,80-180
+ORD0130,33.99,3,Pizza,Hawaiian Pizza,2025-01-12 14:20:00,ul. Bergiela 9,80-180
+ORD0130,44.99,2,Pizza,Pepperoni Pizza,2025-01-12 14:20:00,ul. Bergiela 9,80-180
+ORD0130,36.99,1,Pizza,Ham Pizza,2025-01-12 14:20:00,ul. Bergiela 9,80-180
+ORD0131,32.99,1,Pizza,Pepperoni Pizza,2025-01-11 16:00:00,ul. Ujescisko 71,80-122
+ORD0131,49.99,3,Pizza,Vegetarian Pizza,2025-01-11 16:00:00,ul. Ujescisko 71,80-122
+ORD0131,37.99,2,Pizza,Vegetarian Pizza,2025-01-11 16:00:00,ul. Ujescisko 71,80-122
+ORD0132,36.99,3,Pizza,Ham Pizza,2025-01-10 17:10:00,ul. Ptasia 4,80-180
+ORD0132,34.99,1,Pizza,Mushroom Pizza,2025-01-10 17:10:00,ul. Ptasia 4,80-180
+ORD0132,39.99,2,Pizza,Margherita Pizza,2025-01-10 17:10:00,ul. Ptasia 4,80-180
+ORD0133,33.99,2,Pizza,Hawaiian Pizza,2025-01-09 15:40:00,ul. Starogardzka 55,80-180
+ORD0133,44.99,1,Pizza,Pepperoni Pizza,2025-01-09 15:40:00,ul. Starogardzka 55,80-180
+ORD0133,45.99,3,Pizza,Hawaiian Pizza,2025-01-09 15:40:00,ul. Starogardzka 55,80-180
+ORD0134,46.99,1,Pizza,Mushroom Pizza,2025-01-08 14:20:00,ul. Swietokrzyska 12,80-180
+ORD0134,37.99,2,Pizza,Vegetarian Pizza,2025-01-08 14:20:00,ul. Swietokrzyska 12,80-180
+ORD0134,36.99,3,Pizza,Ham Pizza,2025-01-08 14:20:00,ul. Swietokrzyska 12,80-180
+ORD0135,39.99,3,Pizza,Margherita Pizza,2025-01-07 12:50:00,ul. Niepolomicka 38,80-180
+ORD0135,49.99,1,Pizza,Vegetarian Pizza,2025-01-07 12:50:00,ul. Niepolomicka 38,80-180
+ORD0135,34.99,2,Pizza,Mushroom Pizza,2025-01-07 12:50:00,ul. Niepolomicka 38,80-180
+ORD0136,37.99,1,Pizza,Vegetarian Pizza,2025-01-06 16:30:00,ul. Wielkopolska 21,80-180
+ORD0136,36.99,3,Pizza,Ham Pizza,2025-01-06 16:30:00,ul. Wielkopolska 21,80-180
+ORD0136,46.99,2,Pizza,Mushroom Pizza,2025-01-06 16:30:00,ul. Wielkopolska 21,80-180
+ORD0137,44.99,1,Pizza,Pepperoni Pizza,2025-01-05 14:10:00,ul. Przemyska 6,80-180
+ORD0137,34.99,2,Pizza,Mushroom Pizza,2025-01-05 14:10:00,ul. Przemyska 6,80-180
+ORD0137,37.99,3,Pizza,Vegetarian Pizza,2025-01-05 14:10:00,ul. Przemyska 6,80-180
+ORD0138,29.99,1,Pizza,Margherita Pizza,2025-01-04 13:40:00,ul. Królowej Jadwigi 14,80-180
+ORD0138,45.99,2,Pizza,Hawaiian Pizza,2025-01-04 13:40:00,ul. Królowej Jadwigi 14,80-180
+ORD0138,46.99,3,Pizza,Mushroom Pizza,2025-01-04 13:40:00,ul. Królowej Jadwigi 14,80-180
+ORD0139,36.99,3,Pizza,Ham Pizza,2025-01-03 16:30:00,ul. Platynowa 3,80-180
+ORD0139,49.99,2,Pizza,Vegetarian Pizza,2025-01-03 16:30:00,ul. Platynowa 3,80-180
+ORD0139,39.99,1,Pizza,Margherita Pizza,2025-01-03 16:30:00,ul. Platynowa 3,80-180
+ORD0140,32.99,1,Pizza,Pepperoni Pizza,2025-01-02 17:50:00,ul. Olimpijska 7,80-180
+ORD0140,34.99,3,Pizza,Mushroom Pizza,2025-01-02 17:50:00,ul. Olimpijska 7,80-180
+ORD0140,29.99,2,Pizza,Margherita Pizza,2025-01-02 17:50:00,ul. Olimpijska 7,80-180
+ORD0141,39.99,1,Pizza,Margherita Pizza,2025-01-01 12:30:00,ul. Kwiatkowskiego 20,80-180
+ORD0141,37.99,2,Pizza,Vegetarian Pizza,2025-01-01 12:30:00,ul. Kwiatkowskiego 20,80-180
+ORD0141,49.99,3,Pizza,Vegetarian Pizza,2025-01-01 12:30:00,ul. Kwiatkowskiego 20,80-180
+ORD0142,36.99,2,Pizza,Ham Pizza,2025-01-01 14:00:00,ul. Kampinoska 5,80-180
+ORD0142,33.99,3,Pizza,Hawaiian Pizza,2025-01-01 14:00:00,ul. Kampinoska 5,80-180
+ORD0142,46.99,1,Pizza,Mushroom Pizza,2025-01-01 14:00:00,ul. Kampinoska 5,80-180
+ORD0143,44.99,1,Pizza,Pepperoni Pizza,2025-01-01 15:40:00,ul. Wiczlinska 66,80-180
+ORD0143,36.99,2,Pizza,Ham Pizza,2025-01-01 15:40:00,ul. Wiczlinska 66,80-180
+ORD0143,37.99,3,Pizza,Vegetarian Pizza,2025-01-01 15:40:00,ul. Wiczlinska 66,80-180
+ORD0144,39.99,1,Pizza,Margherita Pizza,2025-01-02 11:10:00,ul. Bieszczadzka 12,80-180
+ORD0144,49.99,2,Pizza,Vegetarian Pizza,2025-01-02 11:10:00,ul. Bieszczadzka 12,80-180
+ORD0144,29.99,3,Pizza,Margherita Pizza,2025-01-02 11:10:00,ul. Bieszczadzka 12,80-180
+ORD0145,36.99,2,Pizza,Ham Pizza,2025-01-03 13:30:00,ul. Nowy Swiat 3,80-180
+ORD0145,44.99,1,Pizza,Pepperoni Pizza,2025-01-03 13:30:00,ul. Nowy Swiat 3,80-180
+ORD0145,46.99,3,Pizza,Mushroom Pizza,2025-01-03 13:30:00,ul. Nowy Swiat 3,80-180
+ORD0146,34.99,1,Pizza,Mushroom Pizza,2025-01-04 14:50:00,ul. Reduta Mis 28,80-180
+ORD0146,37.99,3,Pizza,Vegetarian Pizza,2025-01-04 14:50:00,ul. Reduta Mis 28,80-180
+ORD0146,36.99,2,Pizza,Ham Pizza,2025-01-04 14:50:00,ul. Reduta Mis 28,80-180
+ORD0147,44.99,3,Pizza,Pepperoni Pizza,2025-01-05 16:20:00,ul. Lesna Góra 19,80-180
+ORD0147,29.99,2,Pizza,Margherita Pizza,2025-01-05 16:20:00,ul. Lesna Góra 19,80-180
+ORD0147,39.99,1,Pizza,Margherita Pizza,2025-01-05 16:20:00,ul. Lesna Góra 19,80-180
+ORD0148,46.99,3,Pizza,Mushroom Pizza,2025-01-06 17:00:00,ul. Cicha 2,80-180
+ORD0148,33.99,1,Pizza,Hawaiian Pizza,2025-01-06 17:00:00,ul. Cicha 2,80-180
+ORD0148,34.99,2,Pizza,Mushroom Pizza,2025-01-06 17:00:00,ul. Cicha 2,80-180
+ORD0149,37.99,2,Pizza,Vegetarian Pizza,2025-01-07 15:40:00,ul. Swierkowa 51,80-180
+ORD0149,36.99,3,Pizza,Ham Pizza,2025-01-07 15:40:00,ul. Swierkowa 51,80-180
+ORD0149,44.99,1,Pizza,Pepperoni Pizza,2025-01-07 15:40:00,ul. Swierkowa 51,80-180
+ORD0150,44.99,2,Pizza,Pepperoni Pizza,2025-01-08 12:30:00,ul. Klonowa 18,80-180
+ORD0150,34.99,3,Pizza,Mushroom Pizza,2025-01-08 12:30:00,ul. Klonowa 18,80-180
+ORD0151,29.99,1,Pizza,Margherita Pizza,2025-01-09 14:00:00,ul. Wiosenna 7,80-180
+ORD0151,49.99,2,Pizza,Vegetarian Pizza,2025-01-09 14:00:00,ul. Wiosenna 7,80-180
+ORD0152,36.99,1,Pizza,Ham Pizza,2025-01-10 16:00:00,ul. Malinowa 9,80-180
+ORD0152,37.99,3,Pizza,Vegetarian Pizza,2025-01-10 16:00:00,ul. Malinowa 9,80-180
+ORD0152,33.99,2,Pizza,Hawaiian Pizza,2025-01-10 16:00:00,ul. Malinowa 9,80-180
+ORD0153,44.99,2,Pizza,Pepperoni Pizza,2025-01-11 17:30:00,ul. Jagodowa 3,80-180
+ORD0153,45.99,1,Pizza,Hawaiian Pizza,2025-01-11 17:30:00,ul. Jagodowa 3,80-180
+ORD0153,36.99,3,Pizza,Ham Pizza,2025-01-11 17:30:00,ul. Jagodowa 3,80-180
+ORD0154,46.99,3,Pizza,Mushroom Pizza,2025-01-12 14:40:00,ul. Truskawkowa 2,80-180
+ORD0154,37.99,2,Pizza,Vegetarian Pizza,2025-01-12 14:40:00,ul. Truskawkowa 2,80-180
+ORD0154,39.99,1,Pizza,Margherita Pizza,2025-01-12 14:40:00,ul. Truskawkowa 2,80-180
+ORD0155,36.99,1,Pizza,Ham Pizza,2025-01-13 12:30:00,ul. Poziomkowa 8,80-180
+ORD0155,29.99,3,Pizza,Margherita Pizza,2025-01-13 12:30:00,ul. Poziomkowa 8,80-180
+ORD0156,46.99,2,Pizza,Mushroom Pizza,2025-01-14 14:10:00,ul. Borówkowa 6,80-180
+ORD0156,49.99,3,Pizza,Vegetarian Pizza,2025-01-14 14:10:00,ul. Borówkowa 6,80-180
+ORD0156,44.99,1,Pizza,Pepperoni Pizza,2025-01-14 14:10:00,ul. Borówkowa 6,80-180
+ORD0157,39.99,3,Pizza,Margherita Pizza,2025-01-15 13:50:00,ul. Cynamonowa 14,80-180
+ORD0157,36.99,1,Pizza,Ham Pizza,2025-01-15 13:50:00,ul. Cynamonowa 14,80-180
+ORD0158,37.99,2,Pizza,Vegetarian Pizza,2025-01-16 17:00:00,ul. Mietowa 5,80-180
+ORD0158,45.99,3,Pizza,Hawaiian Pizza,2025-01-16 17:00:00,ul. Mietowa 5,80-180
+ORD0159,29.99,2,Pizza,Margherita Pizza,2025-01-17 12:30:00,ul. Imbirowa 7,80-180
+ORD0159,34.99,1,Pizza,Mushroom Pizza,2025-01-17 12:30:00,ul. Imbirowa 7,80-180
+ORD0160,44.99,2,Pizza,Pepperoni Pizza,2025-01-18 14:30:00,ul. Lawendowa 18,80-180
+ORD0160,37.99,3,Pizza,Vegetarian Pizza,2025-01-18 14:30:00,ul. Lawendowa 18,80-180
+ORD0160,36.99,1,Pizza,Ham Pizza,2025-01-18 14:30:00,ul. Lawendowa 18,80-180
+ORD0161,45.99,2,Pizza,Hawaiian Pizza,2025-01-19 16:20:00,ul. Rumiankowa 10,80-180
+ORD0161,32.99,1,Pizza,Pepperoni Pizza,2025-01-19 16:20:00,ul. Rumiankowa 10,80-180
+ORD0161,39.99,3,Pizza,Margherita Pizza,2025-01-19 16:20:00,ul. Rumiankowa 10,80-180
+ORD0162,46.99,3,Pizza,Mushroom Pizza,2025-01-20 11:30:00,ul. Jasminowa 21,80-180
+ORD0162,36.99,2,Pizza,Ham Pizza,2025-01-20 11:30:00,ul. Jasminowa 21,80-180
+ORD0162,37.99,1,Pizza,Vegetarian Pizza,2025-01-20 11:30:00,ul. Jasminowa 21,80-180
+ORD0163,34.99,1,Pizza,Mushroom Pizza,2025-01-21 14:10:00,ul. Fiolkowa 6,80-180
+ORD0163,29.99,3,Pizza,Margherita Pizza,2025-01-21 14:10:00,ul. Fiolkowa 6,80-180
+ORD0164,39.99,2,Pizza,Margherita Pizza,2025-01-22 16:00:00,ul. Debowa 9,80-180
+ORD0164,46.99,3,Pizza,Mushroom Pizza,2025-01-22 16:00:00,ul. Debowa 9,80-180
+ORD0164,37.99,1,Pizza,Vegetarian Pizza,2025-01-22 16:00:00,ul. Debowa 9,80-180
+ORD0165,36.99,1,Pizza,Ham Pizza,2025-01-23 12:40:00,ul. Sosnowa 4,80-180
+ORD0165,44.99,2,Pizza,Pepperoni Pizza,2025-01-23 12:40:00,ul. Sosnowa 4,80-180
+ORD0166,49.99,3,Pizza,Vegetarian Pizza,2025-01-24 14:30:00,ul. Swierkowa 3,80-180
+ORD0166,39.99,1,Pizza,Margherita Pizza,2025-01-24 14:30:00,ul. Swierkowa 3,80-180
+ORD0167,32.99,1,Pizza,Pepperoni Pizza,2025-01-25 15:00:00,ul. Jodlowa 8,80-180
+ORD0167,33.99,2,Pizza,Hawaiian Pizza,2025-01-25 15:00:00,ul. Jodlowa 8,80-180
+ORD0168,44.99,3,Pizza,Pepperoni Pizza,2025-01-26 12:30:00,ul. Brzozowa 10,80-180
+ORD0168,37.99,1,Pizza,Vegetarian Pizza,2025-01-26 12:30:00,ul. Brzozowa 10,80-180
+ORD0168,29.99,2,Pizza,Margherita Pizza,2025-01-26 12:30:00,ul. Brzozowa 10,80-180
+ORD0169,39.99,3,Pizza,Margherita Pizza,2025-01-27 14:10:00,ul. Akacjowa 12,80-180
+ORD0169,33.99,2,Pizza,Hawaiian Pizza,2025-01-27 14:10:00,ul. Akacjowa 12,80-180
+ORD0170,46.99,2,Pizza,Mushroom Pizza,2025-01-28 16:00:00,ul. Orzechowa 5,80-180
+ORD0170,29.99,1,Pizza,Margherita Pizza,2025-01-28 16:00:00,ul. Orzechowa 5,80-180
+ORD0171,37.99,2,Pizza,Vegetarian Pizza,2025-01-29 13:30:00,ul. Leszczynowa 14,80-180
+ORD0171,34.99,1,Pizza,Mushroom Pizza,2025-01-29 13:30:00,ul. Leszczynowa 14,80-180
+ORD0172,29.99,1,Pizza,Margherita Pizza,2025-01-30 14:40:00,ul. Modrzewiowa 7,80-180
+ORD0172,36.99,3,Pizza,Ham Pizza,2025-01-30 14:40:00,ul. Modrzewiowa 7,80-180
+ORD0173,39.99,2,Pizza,Margherita Pizza,2025-02-01 16:30:00,ul. Cisowa 8,80-180
+ORD0173,49.99,1,Pizza,Vegetarian Pizza,2025-02-01 16:30:00,ul. Cisowa 8,80-180
+ORD0174,37.99,3,Pizza,Vegetarian Pizza,2025-02-02 13:40:00,ul. Bukowa 3,80-180
+ORD0174,34.99,2,Pizza,Mushroom Pizza,2025-02-02 13:40:00,ul. Bukowa 3,80-180
+ORD0175,33.99,1,Pizza,Hawaiian Pizza,2025-02-03 14:20:00,ul. Slowackiego 217,80-298
+ORD0175,44.99,2,Pizza,Pepperoni Pizza,2025-02-03 14:20:00,ul. Slowackiego 217,80-298
+ORD0176,39.99,3,Pizza,Margherita Pizza,2025-02-04 12:50:00,ul. Orzechowa 5,80-180
+ORD0176,34.99,1,Pizza,Mushroom Pizza,2025-02-04 12:50:00,ul. Orzechowa 5,80-180
+ORD0177,36.99,2,Pizza,Ham Pizza,2025-02-05 15:00:00,ul. Akacjowa 12,80-180
+ORD0177,46.99,1,Pizza,Mushroom Pizza,2025-02-05 15:00:00,ul. Akacjowa 12,80-180
+ORD0178,44.99,1,Pizza,Pepperoni Pizza,2025-02-06 16:30:00,ul. Brzozowa 10,80-180
+ORD0178,45.99,3,Pizza,Hawaiian Pizza,2025-02-06 16:30:00,ul. Brzozowa 10,80-180
+ORD0179,32.99,2,Pizza,Pepperoni Pizza,2025-02-07 13:00:00,ul. Jodlowa 8,80-180
+ORD0179,36.99,1,Pizza,Ham Pizza,2025-02-07 13:00:00,ul. Jodlowa 8,80-180
+ORD0180,39.99,3,Pizza,Margherita Pizza,2025-02-08 14:40:00,ul. Swierkowa 3,80-180
+ORD0180,29.99,1,Pizza,Margherita Pizza,2025-02-08 14:40:00,ul. Swierkowa 3,80-180
+ORD0181,45.99,1,Pizza,Hawaiian Pizza,2025-02-09 12:30:00,ul. Sosnowa 4,80-180
+ORD0181,46.99,2,Pizza,Mushroom Pizza,2025-02-09 12:30:00,ul. Sosnowa 4,80-180
+ORD0182,36.99,3,Pizza,Ham Pizza,2025-02-10 13:10:00,ul. Debowa 9,80-180
+ORD0182,44.99,1,Pizza,Pepperoni Pizza,2025-02-10 13:10:00,ul. Debowa 9,80-180
+ORD0183,33.99,1,Pizza,Hawaiian Pizza,2025-02-11 14:30:00,ul. Fiolkowa 6,80-180
+ORD0183,39.99,2,Pizza,Margherita Pizza,2025-02-11 14:30:00,ul. Fiolkowa 6,80-180
+ORD0184,29.99,3,Pizza,Margherita Pizza,2025-02-12 15:00:00,ul. Akacjowa 12,80-180
+ORD0184,37.99,1,Pizza,Vegetarian Pizza,2025-02-12 15:00:00,ul. Akacjowa 12,80-180
+ORD0185,44.99,1,Pizza,Pepperoni Pizza,2025-02-13 16:40:00,ul. Orzechowa 5,80-180
+ORD0185,39.99,2,Pizza,Margherita Pizza,2025-02-13 16:40:00,ul. Orzechowa 5,80-180
+ORD0186,49.99,3,Pizza,Vegetarian Pizza,2025-02-14 12:20:00,ul. Leszczynowa 14,80-180
+ORD0186,36.99,1,Pizza,Ham Pizza,2025-02-14 12:20:00,ul. Leszczynowa 14,80-180
+ORD0187,34.99,2,Pizza,Mushroom Pizza,2025-02-15 14:50:00,ul. Modrzewiowa 7,80-180
+ORD0187,33.99,1,Pizza,Hawaiian Pizza,2025-02-15 14:50:00,ul. Modrzewiowa 7,80-180
+ORD0188,32.99,1,Pizza,Pepperoni Pizza,2025-02-16 16:10:00,ul. Cisowa 8,80-180
+ORD0188,44.99,2,Pizza,Pepperoni Pizza,2025-02-16 16:10:00,ul. Cisowa 8,80-180
+ORD0189,37.99,3,Pizza,Vegetarian Pizza,2025-02-17 13:00:00,ul. Bukowa 3,80-180
+ORD0189,45.99,1,Pizza,Hawaiian Pizza,2025-02-17 13:00:00,ul. Bukowa 3,80-180
+ORD0190,33.99,2,Pizza,Hawaiian Pizza,2025-02-18 15:30:00,ul. Slowackiego 217,80-298
+ORD0190,34.99,1,Pizza,Mushroom Pizza,2025-02-18 15:30:00,ul. Slowackiego 217,80-298
+ORD0191,29.99,2,Pizza,Margherita Pizza,2025-02-19 16:00:00,ul. Brzozowa 10,80-180
+ORD0191,39.99,3,Pizza,Margherita Pizza,2025-02-19 16:00:00,ul. Brzozowa 10,80-180
+ORD0192,44.99,1,Pizza,Pepperoni Pizza,2025-02-20 14:40:00,ul. Akacjowa 12,80-180
+ORD0192,37.99,2,Pizza,Vegetarian Pizza,2025-02-20 14:40:00,ul. Akacjowa 12,80-180
+ORD0193,36.99,3,Pizza,Ham Pizza,2025-02-21 13:30:00,ul. Orzechowa 5,80-180
+ORD0193,29.99,2,Pizza,Margherita Pizza,2025-02-21 13:30:00,ul. Orzechowa 5,80-180
+ORD0194,49.99,2,Pizza,Vegetarian Pizza,2025-02-22 16:00:00,ul. Leszczynowa 14,80-180
+ORD0194,34.99,1,Pizza,Mushroom Pizza,2025-02-22 16:00:00,ul. Leszczynowa 14,80-180
+ORD0195,37.99,1,Pizza,Vegetarian Pizza,2025-02-23 13:20:00,ul. Modrzewiowa 7,80-180
+ORD0195,44.99,2,Pizza,Pepperoni Pizza,2025-02-23 13:20:00,ul. Modrzewiowa 7,80-180
+ORD0196,45.99,1,Pizza,Hawaiian Pizza,2025-02-24 15:30:00,ul. Cisowa 8,80-180
+ORD0196,39.99,3,Pizza,Margherita Pizza,2025-02-24 15:30:00,ul. Cisowa 8,80-180
+ORD0197,29.99,1,Pizza,Margherita Pizza,2025-02-25 14:00:00,ul. Bukowa 3,80-180
+ORD0197,49.99,2,Pizza,Vegetarian Pizza,2025-02-25 14:00:00,ul. Bukowa 3,80-180
+ORD0198,36.99,1,Pizza,Ham Pizza,2025-02-26 16:10:00,ul. Slowackiego 217,80-298
+ORD0198,32.99,2,Pizza,Pepperoni Pizza,2025-02-26 16:10:00,ul. Slowackiego 217,80-298
+ORD0199,34.99,3,Pizza,Mushroom Pizza,2025-02-27 12:40:00,ul. Akacjowa 12,80-180
+ORD0199,37.99,2,Pizza,Vegetarian Pizza,2025-02-27 12:40:00,ul. Akacjowa 12,80-180
+ORD0121,45.99,1,Pizza,Hawaiian Pizza,2025-02-01 00:00:00,ul. Dluga 25,80-831
+ORD0122,36.99,3,Pizza,Ham Pizza,2025-02-01 00:00:00,ul. Grunwaldzka 102,80-244
+ORD0123,34.99,4,Pizza,Mushroom Pizza,2025-02-02 00:00:00,ul. Mariacka 8,80-833
+ORD0124,39.99,1,Pizza,Margherita Pizza,2025-02-02 00:00:00,ul. Swietojanska 15,80-840
+ORD0125,49.99,2,Pizza,Vegetarian Pizza,2025-02-02 00:00:00,ul. Chlebnicka 22,80-830
+ORD0126,32.99,2,Pizza,Pepperoni Pizza,2025-02-03 00:00:00,ul. Kartuska 305,80-125
+ORD0127,52.99,3,Pizza,Ricotta Pizza,2025-02-03 00:00:00,ul. Jaskólcza 19,80-767
+ORD0128,48.99,1,Pizza,Ham Pizza,2025-02-03 00:00:00,ul. Ogarna 87,80-826
+ORD0129,46.99,4,Pizza,Mushroom Pizza,2025-02-04 00:00:00,ul. Heweliusza 11,80-890
+ORD0130,29.99,2,Pizza,Margherita Pizza,2025-02-04 00:00:00,ul. Lawendowa 5,80-840
+ORD0131,45.99,1,Pizza,Hawaiian Pizza,2025-02-05 00:00:00,ul. Partyzantów 32,80-254
+ORD0132,34.99,3,Pizza,Mushroom Pizza,2025-02-05 00:00:00,ul. Kolodziejska 3,80-836
+ORD0133,52.99,2,Pizza,Ricotta Pizza,2025-02-06 00:00:00,ul. Waly Jagiellonskie 9,80-853
+ORD0134,37.99,4,Pizza,Vegetarian Pizza,2025-02-06 00:00:00,ul. Rajska 12,80-850
+ORD0135,33.99,1,Pizza,Hawaiian Pizza,2025-02-06 00:00:00,ul. Piwna 26,80-831
+ORD0136,32.99,1,Pizza,Pepperoni Pizza,2025-02-07 00:00:00,ul. Szeroka 41,80-835
+ORD0137,48.99,3,Pizza,Ham Pizza,2025-02-07 00:00:00,ul. Lastadia 17,80-880
+ORD0138,36.99,2,Pizza,Ham Pizza,2025-02-07 00:00:00,ul. Lakowa 60,80-769
+ORD0139,49.99,4,Pizza,Vegetarian Pizza,2025-02-08 00:00:00,ul. Straganiarska 15,80-837
+ORD0140,45.99,2,Pizza,Hawaiian Pizza,2025-02-08 00:00:00,ul. Zabi Kruk 8,80-822
+ORD0141,29.99,1,Pizza,Margherita Pizza,2025-02-09 00:00:00,ul. Czopowa 23,80-882
+ORD0142,34.99,3,Pizza,Mushroom Pizza,2025-02-09 00:00:00,ul. Angielska Grobla 11,80-756
+ORD0143,38.99,2,Pizza,Ricotta Pizza,2025-02-09 00:00:00,ul. Torunska 18,80-747
+ORD0144,46.99,1,Pizza,Mushroom Pizza,2025-02-10 00:00:00,ul. Stara Stocznia 25,80-862
+ORD0145,36.99,2,Pizza,Ham Pizza,2025-02-10 00:00:00,ul. Zielona 9,80-802
+ORD0146,37.99,3,Pizza,Vegetarian Pizza,2025-02-11 00:00:00,ul. Walowa 35,80-858
+ORD0147,49.99,2,Pizza,Vegetarian Pizza,2025-02-11 00:00:00,ul. Trakt Swietego Wojciecha 195,80-017
+ORD0148,52.99,1,Pizza,Ricotta Pizza,2025-02-12 00:00:00,ul. Chmielna 101,80-748
+ORD0149,39.99,4,Pizza,Margherita Pizza,2025-02-12 00:00:00,ul. Szafarnia 5,80-755
+ORD0150,32.99,2,Pizza,Pepperoni Pizza,2025-02-13 00:00:00,ul. Nowe Ogrody 23,80-803
+ORD0151,29.99,1,Pizza,Margherita Pizza,2025-02-13 00:00:00,ul. Polanki 124,80-308
+ORD0152,46.99,3,Pizza,Mushroom Pizza,2025-02-13 00:00:00,ul. Wita Stwosza 58,80-308
+ORD0153,48.99,4,Pizza,Ham Pizza,2025-02-14 00:00:00,ul. Gospody 6,80-344
+ORD0154,34.99,2,Pizza,Mushroom Pizza,2025-02-14 00:00:00,ul. Pomorska 94,80-333
+ORD0155,45.99,3,Pizza,Hawaiian Pizza,2025-02-14 00:00:00,ul. Jelitkowska 15,80-342
+ORD0156,52.99,1,Pizza,Ricotta Pizza,2025-02-15 00:00:00,ul. Subislawa 23,80-354
+ORD0157,36.99,2,Pizza,Ham Pizza,2025-02-15 00:00:00,ul. Piastowska 70,80-363
+ORD0158,46.99,3,Pizza,Mushroom Pizza,2025-02-15 00:00:00,ul. Obronców Wybrzeza 11,80-398
+ORD0159,39.99,1,Pizza,Margherita Pizza,2025-02-16 00:00:00,ul. Kolobrzeska 9,80-394
+ORD0160,33.99,3,Pizza,Hawaiian Pizza,2025-02-16 00:00:00,ul. Leborska 18,80-386
+ORD0161,38.99,2,Pizza,Ricotta Pizza,2025-02-16 00:00:00,ul. Hynka 27,80-465
+ORD0162,45.99,1,Pizza,Hawaiian Pizza,2025-02-17 00:00:00,ul. Zlota Karczma 35,80-298
+ORD0163,34.99,2,Pizza,Mushroom Pizza,2025-02-17 00:00:00,ul. Slowackiego 50,80-257
+ORD0164,37.99,3,Pizza,Vegetarian Pizza,2025-02-18 00:00:00,ul. Wrzeszczanska 21,80-419
+ORD0165,36.99,2,Pizza,Ham Pizza,2025-02-18 00:00:00,ul. Migowska 77,80-287
+ORD0166,29.99,4,Pizza,Margherita Pizza,2025-02-19 00:00:00,ul. Piecewska 34,80-288
+ORD0167,46.99,3,Pizza,Mushroom Pizza,2025-02-19 00:00:00,ul. Mysliwska 47,80-283
+ORD0168,39.99,2,Pizza,Margherita Pizza,2025-02-19 00:00:00,ul. Kartuska 400,80-125
+ORD0169,52.99,3,Pizza,Ricotta Pizza,2025-02-20 00:00:00,ul. Jabloniowa 20,80-180
+ORD0170,32.99,2,Pizza,Pepperoni Pizza,2025-02-20 00:00:00,ul. Cedrowa 35,80-126
+ORD0171,48.99,1,Pizza,Ham Pizza,2025-02-21 00:00:00,ul. Warszawska 70,80-180
+ORD0172,45.99,4,Pizza,Hawaiian Pizza,2025-02-21 00:00:00,ul. Swietokrzyska 97,80-180
+ORD0173,52.99,2,Pizza,Ricotta Pizza,2025-02-22 00:00:00,ul. Czluchowska 21,80-180
+ORD0174,37.99,3,Pizza,Vegetarian Pizza,2025-02-22 00:00:00,ul. Starogardzka 12,80-180
+ORD0175,36.99,1,Pizza,Ham Pizza,2025-02-23 00:00:00,ul. Stoczniowców 29,80-299
+ORD0176,49.99,2,Pizza,Vegetarian Pizza,2025-02-23 00:00:00,ul. Sucha 17,80-530
+ORD0177,29.99,3,Pizza,Margherita Pizza,2025-02-23 00:00:00,ul. Stoczniowców 12,80-862
+ORD0178,34.99,1,Pizza,Mushroom Pizza,2025-02-24 00:00:00,ul. Sucha 7,80-531
+ORD0179,39.99,4,Pizza,Margherita Pizza,2025-02-24 00:00:00,ul. Ptasia 23,80-880
+ORD0180,37.99,3,Pizza,Vegetarian Pizza,2025-02-25 00:00:00,ul. Rycerska 15,80-855
+ORD0181,36.99,2,Pizza,Ham Pizza,2025-02-25 00:00:00,ul. Jesionowa 8,80-261
+ORD0182,45.99,1,Pizza,Hawaiian Pizza,2025-02-26 00:00:00,ul. Browarna 4,80-859
+ORD0183,46.99,3,Pizza,Mushroom Pizza,2025-02-26 00:00:00,ul. Wierzbowa 19,80-140
+ORD0184,29.99,2,Pizza,Margherita Pizza,2025-02-27 00:00:00,ul. Liliowa 33,80-299
+ORD0185,52.99,3,Pizza,Ricotta Pizza,2025-02-27 00:00:00,ul. Swidnicka 14,80-168
+ORD0186,37.99,1,Pizza,Vegetarian Pizza,2025-02-27 00:00:00,ul. Opacka 27,80-338
+ORD0187,48.99,4,Pizza,Ham Pizza,2025-02-28 00:00:00,ul. Karpacka 5,80-144
+ORD0188,34.99,2,Pizza,Mushroom Pizza,2025-02-28 00:00:00,ul. Kosciuszki 49,80-408
+ORD0001,29.99,2,Pizza,Margherita Pizza,2025-01-01 00:00:00,ul. Dluga 25,80-831
+ORD0002,39.99,1,Pizza,Margherita Pizza,2025-01-01 00:00:00,ul. Grunwaldzka 102,80-244
+ORD0003,29.99,3,Pizza,Margherita Pizza,2025-01-02 00:00:00,ul. Mariacka 8,80-833
+ORD0004,34.99,1,Pizza,Mushroom Pizza,2025-01-02 00:00:00,ul. Swietojanska 15,80-840
+ORD0005,46.99,2,Pizza,Mushroom Pizza,2025-01-03 00:00:00,ul. Chlebnicka 22,80-830
+ORD0006,36.99,4,Pizza,Ham Pizza,2025-01-03 00:00:00,ul. Kartuska 305,80-125
+ORD0007,48.99,1,Pizza,Ham Pizza,2025-01-04 00:00:00,ul. Jaskólcza 19,80-767
+ORD0008,32.99,2,Pizza,Pepperoni Pizza,2025-01-04 00:00:00,ul. Ogarna 87,80-826
+ORD0009,37.99,3,Pizza,Vegetarian Pizza,2025-01-05 00:00:00,ul. Heweliusza 11,80-890
+ORD0010,49.99,2,Pizza,Vegetarian Pizza,2025-01-05 00:00:00,ul. Lawendowa 5,80-840
+ORD0011,29.99,2,Pizza,Margherita Pizza,2025-01-06 00:00:00,ul. Partyzantów 32,80-254
+ORD0012,44.99,1,Pizza,Pepperoni Pizza,2025-01-06 00:00:00,ul. Kolodziejska 3,80-836
+ORD0013,33.99,1,Pizza,Hawaiian Pizza,2025-01-07 00:00:00,ul. Waly Jagiellonskie 9,80-853
+ORD0014,45.99,3,Pizza,Hawaiian Pizza,2025-01-07 00:00:00,ul. Rajska 12,80-850
+ORD0015,38.99,2,Pizza,Ricotta Pizza,2025-01-08 00:00:00,ul. Piwna 26,80-831
+ORD0016,34.99,4,Pizza,Mushroom Pizza,2025-01-08 00:00:00,ul. Szeroka 41,80-835
+ORD0017,36.99,1,Pizza,Ham Pizza,2025-01-09 00:00:00,ul. Lastadia 17,80-880
+ORD0018,39.99,2,Pizza,Margherita Pizza,2025-01-09 00:00:00,ul. Lakowa 60,80-769
+ORD0019,32.99,3,Pizza,Pepperoni Pizza,2025-01-10 00:00:00,ul. Straganiarska 15,80-837
+ORD0020,44.99,2,Pizza,Pepperoni Pizza,2025-01-10 00:00:00,ul. Zabi Kruk 8,80-822
+ORD0021,34.99,3,Pizza,Mushroom Pizza,2025-01-11 00:00:00,ul. Czopowa 23,80-882
+ORD0022,45.99,2,Pizza,Hawaiian Pizza,2025-01-11 00:00:00,ul. Angielska Grobla 11,80-756
+ORD0023,46.99,4,Pizza,Mushroom Pizza,2025-01-12 00:00:00,ul. Torunska 18,80-747
+ORD0024,29.99,1,Pizza,Margherita Pizza,2025-01-12 00:00:00,ul. Stara Stocznia 25,80-862
+ORD0025,36.99,2,Pizza,Ham Pizza,2025-01-13 00:00:00,ul. Zielona 9,80-802
+ORD0026,44.99,3,Pizza,Pepperoni Pizza,2025-01-13 00:00:00,ul. Walowa 35,80-858
+ORD0027,49.99,1,Pizza,Vegetarian Pizza,2025-01-14 00:00:00,ul. Trakt Swietego Wojciecha 195,80-017
+ORD0028,39.99,2,Pizza,Margherita Pizza,2025-01-14 00:00:00,ul. Chmielna 101,80-748
+ORD0029,32.99,3,Pizza,Pepperoni Pizza,2025-01-15 00:00:00,ul. Szafarnia 5,80-755
+ORD0030,33.99,2,Pizza,Hawaiian Pizza,2025-01-15 00:00:00,ul. Nowe Ogrody 23,80-803
+ORD0031,52.99,4,Pizza,Ricotta Pizza,2025-01-16 00:00:00,ul. Polanki 124,80-308
+ORD0032,45.99,1,Pizza,Hawaiian Pizza,2025-01-16 00:00:00,ul. Wita Stwosza 58,80-308
+ORD0033,48.99,2,Pizza,Ham Pizza,2025-01-17 00:00:00,ul. Gospody 6,80-344
+ORD0034,49.99,3,Pizza,Vegetarian Pizza,2025-01-17 00:00:00,ul. Pomorska 94,80-333
+ORD0035,37.99,4,Pizza,Vegetarian Pizza,2025-01-18 00:00:00,ul. Jelitkowska 15,80-342
+ORD0036,29.99,1,Pizza,Margherita Pizza,2025-01-18 00:00:00,ul. Subislawa 23,80-354
+ORD0037,36.99,2,Pizza,Ham Pizza,2025-01-19 00:00:00,ul. Piastowska 70,80-363
+ORD0038,33.99,3,Pizza,Hawaiian Pizza,2025-01-19 00:00:00,ul. Obronców Wybrzeza 11,80-398
+ORD0039,38.99,1,Pizza,Ricotta Pizza,2025-01-20 00:00:00,ul. Kolobrzeska 9,80-394
+ORD0040,32.99,2,Pizza,Pepperoni Pizza,2025-01-20 00:00:00,ul. Leborska 18,80-386
+ORD0041,45.99,4,Pizza,Hawaiian Pizza,2025-01-21 00:00:00,ul. Hynka 27,80-465
+ORD0042,46.99,1,Pizza,Mushroom Pizza,2025-01-21 00:00:00,ul. Zlota Karczma 35,80-298
+ORD0043,49.99,3,Pizza,Vegetarian Pizza,2025-01-22 00:00:00,ul. Slowackiego 50,80-257
+ORD0044,44.99,2,Pizza,Pepperoni Pizza,2025-01-22 00:00:00,ul. Wrzeszczanska 21,80-419
+ORD0045,33.99,1,Pizza,Hawaiian Pizza,2025-01-23 00:00:00,ul. Migowska 77,80-287
+ORD0046,39.99,4,Pizza,Margherita Pizza,2025-01-23 00:00:00,ul. Piecewska 34,80-288
+ORD0047,48.99,3,Pizza,Ham Pizza,2025-01-24 00:00:00,ul. Mysliwska 47,80-283
+ORD0048,29.99,2,Pizza,Margherita Pizza,2025-01-24 00:00:00,ul. Kartuska 400,80-125
+ORD0049,52.99,1,Pizza,Ricotta Pizza,2025-01-25 00:00:00,ul. Jabloniowa 20,80-180
+ORD0050,34.99,3,Pizza,Mushroom Pizza,2025-01-25 00:00:00,ul. Cedrowa 35,80-126
+ORD0051,46.99,2,Pizza,Mushroom Pizza,2025-01-26 00:00:00,ul. Warszawska 70,80-180
+ORD0052,37.99,1,Pizza,Vegetarian Pizza,2025-01-26 00:00:00,ul. Swietokrzyska 97,80-180
+ORD0053,39.99,4,Pizza,Margherita Pizza,2025-01-27 00:00:00,ul. Czluchowska 21,80-180
+ORD0054,33.99,3,Pizza,Hawaiian Pizza,2025-01-27 00:00:00,ul. Starogardzka 12,80-180
+ORD0055,36.99,2,Pizza,Ham Pizza,2025-01-28 00:00:00,ul. Stoczniowców 29,80-299
+ORD0056,52.99,4,Pizza,Ricotta Pizza,2025-01-28 00:00:00,ul. Sucha 17,80-530
+ORD0057,32.99,1,Pizza,Pepperoni Pizza,2025-01-29 00:00:00,ul. Stoczniowców 12,80-862
+ORD0058,45.99,3,Pizza,Hawaiian Pizza,2025-01-29 00:00:00,ul. Sucha 7,80-531
+ORD0059,37.99,2,Pizza,Vegetarian Pizza,2025-01-30 00:00:00,ul. Ptasia 23,80-880
+ORD0060,36.99,4,Pizza,Ham Pizza,2025-01-30 00:00:00,ul. Rycerska 15,80-855
+ORD0061,29.99,2,Pizza,Margherita Pizza,2025-01-31 00:00:00,ul. Jesionowa 8,80-261
+ORD0062,38.99,3,Pizza,Ricotta Pizza,2025-01-31 00:00:00,ul. Browarna 4,80-859
+ORD0063,48.99,1,Pizza,Ham Pizza,2025-02-01 00:00:00,ul. Wierzbowa 19,80-140
+ORD0064,44.99,2,Pizza,Pepperoni Pizza,2025-02-01 00:00:00,ul. Liliowa 33,80-299
+ORD0065,34.99,4,Pizza,Mushroom Pizza,2025-02-02 00:00:00,ul. Swidnicka 14,80-168
+ORD0066,39.99,3,Pizza,Margherita Pizza,2025-02-02 00:00:00,ul. Opacka 27,80-338
+ORD0067,49.99,1,Pizza,Vegetarian Pizza,2025-02-03 00:00:00,ul. Karpacka 5,80-144
+ORD0068,52.99,2,Pizza,Ricotta Pizza,2025-02-03 00:00:00,ul. Kosciuszki 49,80-408
+ORD0069,29.99,3,Pizza,Margherita Pizza,2025-02-04 00:00:00,ul. Startowa 11,80-391
+ORD0070,36.99,2,Pizza,Ham Pizza,2025-02-04 00:00:00,ul. Polna 6,80-305
+ORD0071,48.99,4,Pizza,Ham Pizza,2025-02-05 00:00:00,ul. Górnicza 3,80-314
+ORD0072,45.99,1,Pizza,Hawaiian Pizza,2025-02-05 00:00:00,ul. Wczasowa 9,80-516
+ORD0073,38.99,3,Pizza,Ricotta Pizza,2025-02-06 00:00:00,ul. Targ Sienny 7,80-806
+ORD0074,34.99,2,Pizza,Mushroom Pizza,2025-02-06 00:00:00,ul. Oliwska 41,80-563
+ORD0075,44.99,1,Pizza,Pepperoni Pizza,2025-02-07 00:00:00,ul. Widokowa 32,80-172
+ORD0076,46.99,2,Pizza,Mushroom Pizza,2025-02-07 00:00:00,ul. Krótka 21,80-279
+ORD0077,39.99,3,Pizza,Margherita Pizza,2025-02-08 00:00:00,ul. Stalowa 18,80-434
+ORD0078,49.99,4,Pizza,Vegetarian Pizza,2025-02-08 00:00:00,ul. Jantarowa 22,80-347
+ORD0079,34.99,1,Pizza,Mushroom Pizza,2025-02-09 00:00:00,ul. Wita Stwosza 56,80-312
+ORD0080,45.99,2,Pizza,Hawaiian Pizza,2025-02-09 00:00:00,ul. Szczesliwa 19,80-176
+ORD0081,36.99,3,Pizza,Ham Pizza,2025-02-10 00:00:00,ul. Bohaterów Getta 8,80-831
+ORD0082,29.99,4,Pizza,Margherita Pizza,2025-02-10 00:00:00,ul. Lódzka 99,80-388
+ORD0083,52.99,1,Pizza,Ricotta Pizza,2025-02-11 00:00:00,ul. Piastowska 65,80-358
+ORD0084,32.99,3,Pizza,Pepperoni Pizza,2025-02-11 00:00:00,ul. Jodlowa 77,80-297
+ORD0085,36.99,2,Pizza,Ham Pizza,2025-02-12 00:00:00,ul. Astronomów 10,80-299
+ORD0086,45.99,1,Pizza,Hawaiian Pizza,2025-02-12 00:00:00,ul. Kamienna 23,80-306
+ORD0087,48.99,3,Pizza,Ham Pizza,2025-02-13 00:00:00,ul. Krzyzowa 16,80-165
+ORD0088,49.99,2,Pizza,Vegetarian Pizza,2025-02-13 00:00:00,ul. Spacerowa 50,80-330
+ORD0089,34.99,4,Pizza,Mushroom Pizza,2025-02-14 00:00:00,ul. Na Wzgórzu 13,80-282
+ORD0090,39.99,1,Pizza,Margherita Pizza,2025-02-14 00:00:00,ul. Brzozowa 14,80-176
+ORD0091,52.99,2,Pizza,Ricotta Pizza,2025-02-15 00:00:00,ul. Fiolkowa 4,80-177
+ORD0092,37.99,3,Pizza,Vegetarian Pizza,2025-02-15 00:00:00,ul. Malczewskiego 55,80-275
+ORD0093,45.99,1,Pizza,Hawaiian Pizza,2025-02-16 00:00:00,ul. Sloneczna 28,80-180
+ORD0094,46.99,2,Pizza,Mushroom Pizza,2025-02-16 00:00:00,ul. Slowackiego 99,80-390
+ORD0095,32.99,4,Pizza,Pepperoni Pizza,2025-02-17 00:00:00,ul. Reduta Wyskok 9,80-706
+ORD0096,49.99,3,Pizza,Vegetarian Pizza,2025-02-17 00:00:00,ul. Podwale Staromiejskie 3,80-844
+ORD0097,38.99,2,Pizza,Ricotta Pizza,2025-02-18 00:00:00,ul. Bajeczna 25,80-684
+ORD0098,44.99,1,Pizza,Pepperoni Pizza,2025-02-18 00:00:00,ul. Jabloniowa 41,80-180
+ORD0099,39.99,3,Pizza,Margherita Pizza,2025-02-19 00:00:00,ul. Konwaliowa 9,80-297
+ORD0100,33.99,1,Pizza,Hawaiian Pizza,2025-02-19 00:00:00,ul. Magnoliowa 5,80-301
+ORD0101,36.99,4,Pizza,Ham Pizza,2025-02-20 00:00:00,ul. Morska 38,80-706
+ORD0102,45.99,2,Pizza,Hawaiian Pizza,2025-02-20 00:00:00,ul. Królewska 6,80-340
+ORD0103,49.99,3,Pizza,Vegetarian Pizza,2025-02-21 00:00:00,ul. Pilotów 19,80-460
+ORD0104,37.99,1,Pizza,Vegetarian Pizza,2025-02-21 00:00:00,ul. Pomorska 73,80-343
+ORD0105,34.99,4,Pizza,Mushroom Pizza,2025-02-22 00:00:00,ul. Gospody 8,80-344
+ORD0106,33.99,2,Pizza,Hawaiian Pizza,2025-02-22 00:00:00,ul. Targ Rybny 11,80-838
+ORD0107,52.99,1,Pizza,Ricotta Pizza,2025-02-23 00:00:00,ul. Sucha 29,80-531
+ORD0108,48.99,2,Pizza,Ham Pizza,2025-02-23 00:00:00,ul. Cienista 20,80-768
+ORD0109,45.99,3,Pizza,Hawaiian Pizza,2025-02-24 00:00:00,ul. Chlopska 48,80-368
+ORD0110,46.99,1,Pizza,Mushroom Pizza,2025-02-24 00:00:00,ul. Jana Pawla II 30,80-462
+ORD0111,44.99,4,Pizza,Pepperoni Pizza,2025-02-25 00:00:00,ul. Ogarna 110,80-826
+ORD0112,29.99,2,Pizza,Margherita Pizza,2025-02-25 00:00:00,ul. Jaskowa Dolina 102,80-286
+ORD0113,49.99,3,Pizza,Vegetarian Pizza,2025-02-26 00:00:00,ul. Przymorze Wielkie 44,80-365
+ORD0114,39.99,1,Pizza,Margherita Pizza,2025-02-26 00:00:00,ul. Lostowicka 37,80-174
+ORD0115,36.99,2,Pizza,Ham Pizza,2025-02-27 00:00:00,ul. Wita Stwosza 58,80-308
+ORD0116,38.99,4,Pizza,Ricotta Pizza,2025-02-27 00:00:00,ul. Wzgórze Focha 6,80-163
+ORD0117,46.99,1,Pizza,Mushroom Pizza,2025-02-28 00:00:00,ul. Sloneczna Dolina 15,80-603
+ORD0118,52.99,3,Pizza,Ricotta Pizza,2025-02-28 00:00:00,ul. Cedrowa 19,80-126
+ORD0119,37.99,2,Pizza,Vegetarian Pizza,2025-02-28 00:00:00,ul. Kielnienska 99,80-299
+ORD0120,32.99,4,Pizza,Pepperoni Pizza,2025-02-28 00:00:00,ul. Leona Wyczólkowskiego 5,80-138
+ORD0294,48.99,2,Pizza,Ham Pizza,2025-01-07 21:40:00,ul. Klonowa 18,80-180
+ORD0294,36.99,3,Pizza,Ham Pizza,2025-01-07 21:40:00,ul. Klonowa 18,80-180
+ORD0295,34.99,1,Pizza,Mushroom Pizza,2025-01-08 19:30:00,ul. Wiosenna 7,80-180
+ORD0295,29.99,2,Pizza,Margherita Pizza,2025-01-08 19:30:00,ul. Wiosenna 7,80-180
+ORD0296,32.99,2,Pizza,Pepperoni Pizza,2025-01-09 17:10:00,ul. Malinowa 9,80-180
+ORD0296,45.99,3,Pizza,Hawaiian Pizza,2025-01-09 17:10:00,ul. Malinowa 9,80-180
+ORD0297,36.99,1,Pizza,Ham Pizza,2025-01-10 21:00:00,ul. Jagodowa 3,80-180
+ORD0297,34.99,2,Pizza,Mushroom Pizza,2025-01-10 21:00:00,ul. Jagodowa 3,80-180
+ORD0298,37.99,2,Pizza,Vegetarian Pizza,2025-01-11 16:45:00,ul. Truskawkowa 2,80-180
+ORD0298,39.99,3,Pizza,Margherita Pizza,2025-01-11 16:45:00,ul. Truskawkowa 2,80-180
+ORD0299,32.99,1,Pizza,Pepperoni Pizza,2025-01-12 19:10:00,ul. Poziomkowa 8,80-180
+ORD0299,33.99,2,Pizza,Hawaiian Pizza,2025-01-12 19:10:00,ul. Poziomkowa 8,80-180
+ORD0300,34.99,2,Pizza,Mushroom Pizza,2025-01-13 19:00:00,ul. Wita Stwosza 58,80-308
+ORD0300,48.99,1,Pizza,Ham Pizza,2025-01-13 19:00:00,ul. Wita Stwosza 58,80-308
+ORD0301,39.99,3,Pizza,Margherita Pizza,2025-01-14 18:30:00,ul. Biskupa Dominika 41,80-606
+ORD0301,45.99,1,Pizza,Hawaiian Pizza,2025-01-14 18:30:00,ul. Biskupa Dominika 41,80-606
+ORD0302,29.99,1,Pizza,Margherita Pizza,2025-01-15 20:10:00,ul. Lawendowe Wzgórze 3,80-299
+ORD0302,36.99,2,Pizza,Ham Pizza,2025-01-15 20:10:00,ul. Lawendowe Wzgórze 3,80-299
+ORD0303,32.99,3,Pizza,Pepperoni Pizza,2025-01-16 19:50:00,ul. Kazimierza Wielkiego 45,80-180
+ORD0303,34.99,2,Pizza,Mushroom Pizza,2025-01-16 19:50:00,ul. Kazimierza Wielkiego 45,80-180
+ORD0304,37.99,2,Pizza,Vegetarian Pizza,2025-01-17 20:30:00,ul. Radomska 9,80-299
+ORD0304,44.99,1,Pizza,Pepperoni Pizza,2025-01-17 20:30:00,ul. Radomska 9,80-299
+ORD0305,33.99,2,Pizza,Hawaiian Pizza,2025-01-18 18:00:00,ul. Arkonska 8,80-387
+ORD0305,46.99,3,Pizza,Mushroom Pizza,2025-01-18 18:00:00,ul. Arkonska 8,80-387
+ORD0306,36.99,2,Pizza,Ham Pizza,2025-01-19 19:10:00,ul. Porebskiego 13,80-180
+ORD0306,39.99,1,Pizza,Margherita Pizza,2025-01-19 19:10:00,ul. Porebskiego 13,80-180
+ORD0307,45.99,2,Pizza,Hawaiian Pizza,2025-01-20 17:40:00,ul. Kartuska 35,80-125
+ORD0307,34.99,1,Pizza,Mushroom Pizza,2025-01-20 17:40:00,ul. Kartuska 35,80-125
+ORD0308,44.99,1,Pizza,Pepperoni Pizza,2025-01-21 19:30:00,ul. Wladyslawa IV 25,80-390
+ORD0308,48.99,3,Pizza,Ham Pizza,2025-01-21 19:30:00,ul. Wladyslawa IV 25,80-390
+ORD0309,33.99,1,Pizza,Hawaiian Pizza,2025-01-22 20:00:00,ul. Cedrowa 19,80-126
+ORD0309,46.99,2,Pizza,Mushroom Pizza,2025-01-22 20:00:00,ul. Cedrowa 19,80-126
+ORD0310,36.99,1,Pizza,Ham Pizza,2025-01-23 21:15:00,ul. Kwiatowa 15,80-176
+ORD0310,45.99,2,Pizza,Hawaiian Pizza,2025-01-23 21:15:00,ul. Kwiatowa 15,80-176
+ORD0311,34.99,2,Pizza,Mushroom Pizza,2025-01-24 18:50:00,ul. Strzyza 8,80-299
+ORD0311,29.99,3,Pizza,Margherita Pizza,2025-01-24 18:50:00,ul. Strzyza 8,80-299
+ORD0312,39.99,1,Pizza,Margherita Pizza,2025-01-25 19:20:00,ul. Pastelowa 8,80-180
+ORD0312,37.99,2,Pizza,Vegetarian Pizza,2025-01-25 19:20:00,ul. Pastelowa 8,80-180
+ORD0313,48.99,3,Pizza,Ham Pizza,2025-01-26 20:10:00,ul. Karwienska 9,80-551
+ORD0313,32.99,1,Pizza,Pepperoni Pizza,2025-01-26 20:10:00,ul. Karwienska 9,80-551
+ORD0314,33.99,1,Pizza,Hawaiian Pizza,2025-01-27 17:30:00,ul. Kolorowa 8,80-180
+ORD0314,44.99,2,Pizza,Pepperoni Pizza,2025-01-27 17:30:00,ul. Kolorowa 8,80-180
+ORD0315,46.99,2,Pizza,Mushroom Pizza,2025-01-28 19:50:00,ul. Juliusza Slowackiego 198,80-298
+ORD0315,37.99,1,Pizza,Vegetarian Pizza,2025-01-28 19:50:00,ul. Juliusza Slowackiego 198,80-298
+ORD0316,36.99,2,Pizza,Ham Pizza,2025-01-29 21:00:00,ul. Jaskowa Dolina 102,80-286
+ORD0316,34.99,1,Pizza,Mushroom Pizza,2025-01-29 21:00:00,ul. Jaskowa Dolina 102,80-286
+ORD0317,29.99,1,Pizza,Margherita Pizza,2025-01-30 20:40:00,ul. Heweliusza 19,80-890
+ORD0317,45.99,2,Pizza,Hawaiian Pizza,2025-01-30 20:40:00,ul. Heweliusza 19,80-890
+ORD0318,39.99,1,Pizza,Margherita Pizza,2025-01-31 19:30:00,ul. Swietojanska 153,80-840
+ORD0318,36.99,2,Pizza,Ham Pizza,2025-01-31 19:30:00,ul. Swietojanska 153,80-840
+ORD0319,37.99,3,Pizza,Vegetarian Pizza,2025-02-01 18:00:00,ul. Szczesliwa 24,80-176
+ORD0319,33.99,1,Pizza,Hawaiian Pizza,2025-02-01 18:00:00,ul. Szczesliwa 24,80-176
+ORD0320,48.99,2,Pizza,Ham Pizza,2025-02-02 20:10:00,ul. Przymorze Wielkie 44,80-365
+ORD0320,44.99,3,Pizza,Pepperoni Pizza,2025-02-02 20:10:00,ul. Przymorze Wielkie 44,80-365
+ORD0321,45.99,2,Pizza,Hawaiian Pizza,2025-02-03 18:40:00,ul. Jabloniowa 72,80-180
+ORD0321,39.99,1,Pizza,Margherita Pizza,2025-02-03 18:40:00,ul. Jabloniowa 72,80-180
+ORD0322,34.99,1,Pizza,Mushroom Pizza,2025-02-04 19:50:00,ul. Beethovena 45,80-171
+ORD0322,32.99,2,Pizza,Pepperoni Pizza,2025-02-04 19:50:00,ul. Beethovena 45,80-171
+ORD0323,36.99,2,Pizza,Ham Pizza,2025-02-05 21:00:00,ul. Storczykowa 11,80-299
+ORD0323,29.99,3,Pizza,Margherita Pizza,2025-02-05 21:00:00,ul. Storczykowa 11,80-299
+ORD0324,37.99,1,Pizza,Vegetarian Pizza,2025-02-06 20:10:00,ul. Flisykowskiego 45,80-180
+ORD0324,33.99,2,Pizza,Hawaiian Pizza,2025-02-06 20:10:00,ul. Flisykowskiego 45,80-180
+ORD0325,48.99,3,Pizza,Ham Pizza,2025-02-07 19:00:00,ul. Piecewska 42,80-288
+ORD0325,46.99,2,Pizza,Mushroom Pizza,2025-02-07 19:00:00,ul. Piecewska 42,80-288
+ORD0326,32.99,1,Pizza,Pepperoni Pizza,2025-02-08 19:30:00,ul. Cedrowa 18,80-180
+ORD0326,33.99,2,Pizza,Hawaiian Pizza,2025-02-08 19:30:00,ul. Cedrowa 18,80-180
+ORD0327,36.99,2,Pizza,Ham Pizza,2025-02-09 20:00:00,ul. Swietokrzyska 32,80-180
+ORD0327,29.99,3,Pizza,Margherita Pizza,2025-02-09 20:00:00,ul. Swietokrzyska 32,80-180
+ORD0328,39.99,2,Pizza,Margherita Pizza,2025-02-10 18:20:00,ul. Orzeszkowej 31,80-435
+ORD0328,37.99,1,Pizza,Vegetarian Pizza,2025-02-10 18:20:00,ul. Orzeszkowej 31,80-435
+ORD0329,46.99,3,Pizza,Mushroom Pizza,2025-02-11 19:10:00,ul. Arkonska 5,80-387
+ORD0329,45.99,2,Pizza,Hawaiian Pizza,2025-02-11 19:10:00,ul. Arkonska 5,80-387
+ORD0330,44.99,1,Pizza,Pepperoni Pizza,2025-02-12 18:30:00,ul. Jana Pawla II 30,80-462
+ORD0330,34.99,2,Pizza,Mushroom Pizza,2025-02-12 18:30:00,ul. Jana Pawla II 30,80-462
+ORD0331,36.99,1,Pizza,Ham Pizza,2025-02-13 20:50:00,ul. Niepolomicka 55,80-180
+ORD0331,37.99,2,Pizza,Vegetarian Pizza,2025-02-13 20:50:00,ul. Niepolomicka 55,80-180
+ORD0332,39.99,3,Pizza,Margherita Pizza,2025-02-14 21:10:00,ul. Jaskólcza 193,80-767
+ORD0332,48.99,1,Pizza,Ham Pizza,2025-02-14 21:10:00,ul. Jaskólcza 193,80-767
+ORD0333,32.99,2,Pizza,Pepperoni Pizza,2025-02-15 18:40:00,ul. Piekarnicza 49,80-125
+ORD0333,36.99,3,Pizza,Ham Pizza,2025-02-15 18:40:00,ul. Piekarnicza 49,80-125
+ORD0334,34.99,1,Pizza,Mushroom Pizza,2025-02-16 19:30:00,ul. Cieszynskiego 9,80-180
+ORD0334,33.99,2,Pizza,Hawaiian Pizza,2025-02-16 19:30:00,ul. Cieszynskiego 9,80-180
+ORD0335,46.99,2,Pizza,Mushroom Pizza,2025-02-17 20:00:00,ul. Slowackiego 115,80-257
+ORD0335,29.99,1,Pizza,Margherita Pizza,2025-02-17 20:00:00,ul. Slowackiego 115,80-257
+ORD0336,37.99,3,Pizza,Vegetarian Pizza,2025-02-18 18:30:00,ul. Obronców Wybrzeza 10,80-398
+ORD0336,48.99,2,Pizza,Ham Pizza,2025-02-18 18:30:00,ul. Obronców Wybrzeza 10,80-398
+ORD0337,45.99,1,Pizza,Hawaiian Pizza,2025-02-19 19:00:00,ul. Przytulna 22,80-176
+ORD0337,36.99,2,Pizza,Ham Pizza,2025-02-19 19:00:00,ul. Przytulna 22,80-176
+ORD0338,34.99,1,Pizza,Mushroom Pizza,2025-02-20 20:40:00,ul. Mariacka 18,80-833
+ORD0338,39.99,3,Pizza,Margherita Pizza,2025-02-20 20:40:00,ul. Mariacka 18,80-833
+ORD0339,29.99,2,Pizza,Margherita Pizza,2025-02-21 19:50:00,ul. Potokowa 67,80-283
+ORD0339,32.99,1,Pizza,Pepperoni Pizza,2025-02-21 19:50:00,ul. Potokowa 67,80-283
+ORD0340,33.99,1,Pizza,Hawaiian Pizza,2025-02-22 20:30:00,ul. Hallera 145,80-416
+ORD0340,37.99,2,Pizza,Vegetarian Pizza,2025-02-22 20:30:00,ul. Hallera 145,80-416
+ORD0341,44.99,2,Pizza,Pepperoni Pizza,2025-02-23 19:20:00,ul. Ogarna 110,80-826
+ORD0341,39.99,1,Pizza,Margherita Pizza,2025-02-23 19:20:00,ul. Ogarna 110,80-826
+ORD0342,32.99,3,Pizza,Pepperoni Pizza,2025-02-24 18:00:00,ul. Mysliwska 78,80-283
+ORD0342,34.99,1,Pizza,Mushroom Pizza,2025-02-24 18:00:00,ul. Mysliwska 78,80-283
+ORD0343,48.99,2,Pizza,Ham Pizza,2025-02-25 19:10:00,ul. Mariacka 18,80-833
+ORD0343,45.99,1,Pizza,Hawaiian Pizza,2025-02-25 19:10:00,ul. Mariacka 18,80-833
+ORD0344,39.99,2,Pizza,Margherita Pizza,2025-02-26 20:00:00,ul. Wzgórze Focha 6,80-163
+ORD0344,46.99,3,Pizza,Mushroom Pizza,2025-02-26 20:00:00,ul. Wzgórze Focha 6,80-163
+ORD0345,36.99,1,Pizza,Ham Pizza,2025-02-27 19:40:00,ul. Goplanska 16,80-180
+ORD0345,34.99,2,Pizza,Mushroom Pizza,2025-02-27 19:40:00,ul. Goplanska 16,80-180
+ORD0346,33.99,1,Pizza,Hawaiian Pizza,2025-02-28 18:30:00,ul. Konrada Wallenroda 3,80-017
+ORD0346,44.99,3,Pizza,Pepperoni Pizza,2025-02-28 18:30:00,ul. Konrada Wallenroda 3,80-017
+ORD0347,32.99,1,Pizza,Pepperoni Pizza,2025-02-01 20:20:00,ul. Porebskiego 13,80-180
+ORD0347,39.99,3,Pizza,Margherita Pizza,2025-02-01 20:20:00,ul. Porebskiego 13,80-180
+ORD0348,37.99,2,Pizza,Vegetarian Pizza,2025-02-02 18:50:00,ul. Arkonska 8,80-387
+ORD0348,29.99,1,Pizza,Margherita Pizza,2025-02-02 18:50:00,ul. Arkonska 8,80-387
+ORD0349,46.99,2,Pizza,Mushroom Pizza,2025-02-03 21:30:00,ul. Wladyslawa IV 25,80-390
+ORD0349,44.99,1,Pizza,Pepperoni Pizza,2025-02-03 21:30:00,ul. Wladyslawa IV 25,80-390
+ORD0350,45.99,2,Pizza,Hawaiian Pizza,2025-02-04 18:00:00,ul. Kartuska 35,80-125
+ORD0350,36.99,3,Pizza,Ham Pizza,2025-02-04 18:00:00,ul. Kartuska 35,80-125
+ORD0351,32.99,2,Pizza,Pepperoni Pizza,2025-02-05 19:40:00,ul. Reduta Mis 27,80-721
+ORD0351,29.99,1,Pizza,Margherita Pizza,2025-02-05 19:40:00,ul. Reduta Mis 27,80-721
+ORD0352,48.99,1,Pizza,Ham Pizza,2025-02-06 20:20:00,ul. Cieszynskiego 9,80-180
+ORD0352,39.99,3,Pizza,Margherita Pizza,2025-02-06 20:20:00,ul. Cieszynskiego 9,80-180
+ORD0353,44.99,2,Pizza,Pepperoni Pizza,2025-02-07 18:50:00,ul. Chlebnicka 2,80-830
+ORD0353,36.99,1,Pizza,Ham Pizza,2025-02-07 18:50:00,ul. Chlebnicka 2,80-830
+ORD0354,45.99,1,Pizza,Hawaiian Pizza,2025-02-08 19:30:00,ul. Slowackiego 115,80-257
+ORD0354,37.99,2,Pizza,Vegetarian Pizza,2025-02-08 19:30:00,ul. Slowackiego 115,80-257
+ORD0355,34.99,3,Pizza,Mushroom Pizza,2025-02-09 21:10:00,ul. Hallera 145,80-416
+ORD0355,29.99,2,Pizza,Margherita Pizza,2025-02-09 21:10:00,ul. Hallera 145,80-416
+ORD0356,36.99,1,Pizza,Ham Pizza,2025-02-10 18:40:00,ul. Nowiny 28,80-020
+ORD0356,39.99,2,Pizza,Margherita Pizza,2025-02-10 18:40:00,ul. Nowiny 28,80-020
+ORD0357,37.99,2,Pizza,Vegetarian Pizza,2025-02-11 19:20:00,ul. Przymorze Wielkie 44,80-365
+ORD0357,34.99,1,Pizza,Mushroom Pizza,2025-02-11 19:20:00,ul. Przymorze Wielkie 44,80-365
+ORD0358,33.99,3,Pizza,Hawaiian Pizza,2025-02-12 18:50:00,ul. Cedrowa 19,80-126
+ORD0358,36.99,2,Pizza,Ham Pizza,2025-02-12 18:50:00,ul. Cedrowa 19,80-126
+ORD0359,32.99,2,Pizza,Pepperoni Pizza,2025-02-13 20:30:00,ul. Heweliusza 19,80-890
+ORD0359,29.99,1,Pizza,Margherita Pizza,2025-02-13 20:30:00,ul. Heweliusza 19,80-890
+ORD0360,36.99,1,Pizza,Ham Pizza,2025-02-14 19:10:00,ul. Mysliwska 78,80-283
+ORD0360,45.99,2,Pizza,Hawaiian Pizza,2025-02-14 19:10:00,ul. Mysliwska 78,80-283
+ORD0361,37.99,1,Pizza,Vegetarian Pizza,2025-02-15 18:00:00,ul. Guderskiego 32,80-180
+ORD0361,44.99,3,Pizza,Pepperoni Pizza,2025-02-15 18:00:00,ul. Guderskiego 32,80-180
+ORD0362,39.99,2,Pizza,Margherita Pizza,2025-02-16 21:00:00,ul. Swietokrzyska 32,80-180
+ORD0362,32.99,1,Pizza,Pepperoni Pizza,2025-02-16 21:00:00,ul. Swietokrzyska 32,80-180
+ORD0363,33.99,2,Pizza,Hawaiian Pizza,2025-02-17 19:50:00,ul. Cieszynskiego 9,80-180
+ORD0363,36.99,1,Pizza,Ham Pizza,2025-02-17 19:50:00,ul. Cieszynskiego 9,80-180
+ORD0364,46.99,3,Pizza,Mushroom Pizza,2025-02-18 20:30:00,ul. Wladyslawa IV 25,80-390
+ORD0364,34.99,1,Pizza,Mushroom Pizza,2025-02-18 20:30:00,ul. Wladyslawa IV 25,80-390
+ORD0365,36.99,2,Pizza,Ham Pizza,2025-02-19 21:20:00,ul. Radomska 9,80-299
+ORD0365,29.99,3,Pizza,Margherita Pizza,2025-02-19 21:20:00,ul. Radomska 9,80-299
+ORD0190,38.99,1,Pizza,Ricotta Pizza,2025-01-12 00:00:00,ul. Mysliwska 47,80-283
+ORD0191,48.99,1,Pizza,Ham Pizza,2025-01-13 00:00:00,ul. Jabloniowa 20,80-180
+ORD0192,36.99,2,Pizza,Ham Pizza,2025-01-13 00:00:00,ul. Cedrowa 35,80-126
+ORD0193,49.99,2,Pizza,Vegetarian Pizza,2025-01-14 00:00:00,ul. Warszawska 70,80-180
+ORD0194,34.99,1,Pizza,Mushroom Pizza,2025-01-14 00:00:00,ul. Swietokrzyska 97,80-180
+ORD0195,32.99,1,Pizza,Pepperoni Pizza,2025-01-15 00:00:00,ul. Czluchowska 21,80-180
+ORD0196,37.99,3,Pizza,Vegetarian Pizza,2025-01-15 00:00:00,ul. Starogardzka 12,80-180
+ORD0197,39.99,2,Pizza,Margherita Pizza,2025-01-16 00:00:00,ul. Stoczniowców 29,80-299
+ORD0198,46.99,4,Pizza,Mushroom Pizza,2025-01-16 00:00:00,ul. Sucha 17,80-530
+ORD0199,29.99,2,Pizza,Margherita Pizza,2025-01-17 00:00:00,ul. Stoczniowców 12,80-862
+ORD0200,52.99,3,Pizza,Ricotta Pizza,2025-01-17 00:00:00,ul. Sucha 7,80-531
+ORD0201,36.99,3,Pizza,Ham Pizza,2025-01-18 00:00:00,ul. Ptasia 23,80-880
+ORD0202,37.99,2,Pizza,Vegetarian Pizza,2025-01-18 00:00:00,ul. Rycerska 15,80-855
+ORD0203,34.99,3,Pizza,Mushroom Pizza,2025-01-19 00:00:00,ul. Jesionowa 8,80-261
+ORD0204,33.99,2,Pizza,Hawaiian Pizza,2025-01-19 00:00:00,ul. Browarna 4,80-859
+ORD0205,38.99,1,Pizza,Ricotta Pizza,2025-01-20 00:00:00,ul. Wierzbowa 19,80-140
+ORD0206,49.99,2,Pizza,Vegetarian Pizza,2025-01-20 00:00:00,ul. Liliowa 33,80-299
+ORD0207,45.99,3,Pizza,Hawaiian Pizza,2025-01-21 00:00:00,ul. Swidnicka 14,80-168
+ORD0208,46.99,4,Pizza,Mushroom Pizza,2025-01-21 00:00:00,ul. Opacka 27,80-338
+ORD0209,44.99,2,Pizza,Pepperoni Pizza,2025-01-22 00:00:00,ul. Karpacka 5,80-144
+ORD0210,49.99,3,Pizza,Vegetarian Pizza,2025-01-22 00:00:00,ul. Kosciuszki 49,80-408
+ORD0211,36.99,1,Pizza,Ham Pizza,2025-01-23 00:00:00,ul. Startowa 11,80-391
+ORD0212,45.99,3,Pizza,Hawaiian Pizza,2025-01-23 00:00:00,ul. Polna 6,80-305
+ORD0213,29.99,3,Pizza,Margherita Pizza,2025-01-24 00:00:00,ul. Górnicza 3,80-314
+ORD0214,32.99,2,Pizza,Pepperoni Pizza,2025-01-24 00:00:00,ul. Wczasowa 9,80-516
+ORD0215,48.99,2,Pizza,Ham Pizza,2025-01-25 00:00:00,ul. Targ Sienny 7,80-806
+ORD0216,37.99,3,Pizza,Vegetarian Pizza,2025-01-25 00:00:00,ul. Oliwska 41,80-563
+ORD0217,52.99,1,Pizza,Ricotta Pizza,2025-01-26 00:00:00,ul. Widokowa 32,80-172
+ORD0218,36.99,2,Pizza,Ham Pizza,2025-01-26 00:00:00,ul. Krótka 21,80-279
+ORD0219,33.99,2,Pizza,Hawaiian Pizza,2025-01-27 00:00:00,ul. Stalowa 18,80-434
+ORD0220,34.99,2,Pizza,Mushroom Pizza,2025-01-27 00:00:00,ul. Jantarowa 22,80-347
+ORD0221,38.99,1,Pizza,Ricotta Pizza,2025-01-28 00:00:00,ul. Wita Stwosza 56,80-312
+ORD0222,46.99,3,Pizza,Mushroom Pizza,2025-01-28 00:00:00,ul. Szczesliwa 19,80-176
+ORD0223,36.99,2,Pizza,Ham Pizza,2025-01-29 00:00:00,ul. Bohaterów Getta 8,80-831
+ORD0224,45.99,1,Pizza,Hawaiian Pizza,2025-01-29 00:00:00,ul. Lódzka 99,80-388
+ORD0225,52.99,1,Pizza,Ricotta Pizza,2025-01-30 00:00:00,ul. Piastowska 65,80-358
+ORD0226,48.99,2,Pizza,Ham Pizza,2025-01-30 00:00:00,ul. Jodlowa 77,80-297
+ORD0227,29.99,3,Pizza,Margherita Pizza,2025-01-31 00:00:00,ul. Astronomów 10,80-299
+ORD0228,34.99,2,Pizza,Mushroom Pizza,2025-01-31 00:00:00,ul. Kamienna 23,80-306
+ORD0229,39.99,2,Pizza,Margherita Pizza,2025-02-01 00:00:00,ul. Krzyzowa 16,80-165
+ORD0229,34.99,1,Pizza,Mushroom Pizza,2025-02-01 00:00:00,ul. Krzyzowa 16,80-165
+ORD0230,32.99,2,Pizza,Pepperoni Pizza,2025-02-01 00:00:00,ul. Spacerowa 50,80-330
+ORD0230,37.99,1,Pizza,Vegetarian Pizza,2025-02-01 00:00:00,ul. Spacerowa 50,80-330
+ORD0231,45.99,2,Pizza,Hawaiian Pizza,2025-02-02 00:00:00,ul. Na Wzgórzu 13,80-282
+ORD0231,48.99,1,Pizza,Ham Pizza,2025-02-02 00:00:00,ul. Na Wzgórzu 13,80-282
+ORD0232,46.99,3,Pizza,Mushroom Pizza,2025-02-02 00:00:00,ul. Brzozowa 14,80-176
+ORD0232,38.99,1,Pizza,Ricotta Pizza,2025-02-02 00:00:00,ul. Brzozowa 14,80-176
+ORD0233,34.99,2,Pizza,Mushroom Pizza,2025-02-03 00:00:00,ul. Fiolkowa 4,80-177
+ORD0233,49.99,2,Pizza,Vegetarian Pizza,2025-02-03 00:00:00,ul. Fiolkowa 4,80-177
+ORD0234,29.99,1,Pizza,Margherita Pizza,2025-02-03 00:00:00,ul. Malczewskiego 55,80-275
+ORD0234,44.99,2,Pizza,Pepperoni Pizza,2025-02-03 00:00:00,ul. Malczewskiego 55,80-275
+ORD0235,39.99,2,Pizza,Margherita Pizza,2025-02-04 00:00:00,ul. Sloneczna 28,80-180
+ORD0235,52.99,1,Pizza,Ricotta Pizza,2025-02-04 00:00:00,ul. Sloneczna 28,80-180
+ORD0236,38.99,3,Pizza,Ricotta Pizza,2025-02-04 00:00:00,ul. Slowackiego 99,80-390
+ORD0236,37.99,1,Pizza,Vegetarian Pizza,2025-02-04 00:00:00,ul. Slowackiego 99,80-390
+ORD0237,36.99,2,Pizza,Ham Pizza,2025-02-05 00:00:00,ul. Reduta Wyskok 9,80-706
+ORD0237,45.99,2,Pizza,Hawaiian Pizza,2025-02-05 00:00:00,ul. Reduta Wyskok 9,80-706
+ORD0238,34.99,2,Pizza,Mushroom Pizza,2025-02-05 00:00:00,ul. Podwale Staromiejskie 3,80-844
+ORD0238,49.99,1,Pizza,Vegetarian Pizza,2025-02-05 00:00:00,ul. Podwale Staromiejskie 3,80-844
+ORD0239,32.99,3,Pizza,Pepperoni Pizza,2025-02-06 00:00:00,ul. Bajeczna 25,80-684
+ORD0239,29.99,2,Pizza,Margherita Pizza,2025-02-06 00:00:00,ul. Bajeczna 25,80-684
+ORD0240,52.99,2,Pizza,Ricotta Pizza,2025-02-06 00:00:00,ul. Jabloniowa 41,80-180
+ORD0240,36.99,1,Pizza,Ham Pizza,2025-02-06 00:00:00,ul. Jabloniowa 41,80-180
+ORD0241,46.99,3,Pizza,Mushroom Pizza,2025-02-07 00:00:00,ul. Konwaliowa 9,80-297
+ORD0241,45.99,2,Pizza,Hawaiian Pizza,2025-02-07 00:00:00,ul. Konwaliowa 9,80-297
+ORD0242,39.99,2,Pizza,Margherita Pizza,2025-02-07 00:00:00,ul. Magnoliowa 5,80-301
+ORD0242,34.99,1,Pizza,Mushroom Pizza,2025-02-07 00:00:00,ul. Magnoliowa 5,80-301
+ORD0243,37.99,3,Pizza,Vegetarian Pizza,2025-02-08 00:00:00,ul. Morska 38,80-706
+ORD0243,32.99,2,Pizza,Pepperoni Pizza,2025-02-08 00:00:00,ul. Morska 38,80-706
+ORD0244,36.99,2,Pizza,Ham Pizza,2025-02-08 00:00:00,ul. Królewska 6,80-340
+ORD0244,29.99,1,Pizza,Margherita Pizza,2025-02-08 00:00:00,ul. Królewska 6,80-340
+ORD0245,38.99,3,Pizza,Ricotta Pizza,2025-02-09 00:00:00,ul. Pilotów 19,80-460
+ORD0245,44.99,2,Pizza,Pepperoni Pizza,2025-02-09 00:00:00,ul. Pilotów 19,80-460
+ORD0246,46.99,1,Pizza,Mushroom Pizza,2025-02-09 00:00:00,ul. Pomorska 73,80-343
+ORD0246,39.99,2,Pizza,Margherita Pizza,2025-02-09 00:00:00,ul. Pomorska 73,80-343
+ORD0247,37.99,2,Pizza,Vegetarian Pizza,2025-02-10 00:00:00,ul. Gospody 8,80-344
+ORD0247,49.99,1,Pizza,Vegetarian Pizza,2025-02-10 00:00:00,ul. Gospody 8,80-344
+ORD0248,32.99,2,Pizza,Pepperoni Pizza,2025-02-10 00:00:00,ul. Targ Rybny 11,80-838
+ORD0248,52.99,1,Pizza,Ricotta Pizza,2025-02-10 00:00:00,ul. Targ Rybny 11,80-838
+ORD0249,36.99,2,Pizza,Ham Pizza,2025-02-11 00:00:00,ul. Sucha 29,80-531
+ORD0249,44.99,3,Pizza,Pepperoni Pizza,2025-02-11 00:00:00,ul. Sucha 29,80-531
+ORD0250,34.99,1,Pizza,Mushroom Pizza,2025-02-11 00:00:00,ul. Cienista 20,80-768
+ORD0250,52.99,1,Pizza,Ricotta Pizza,2025-02-11 00:00:00,ul. Cienista 20,80-768
+ORD0251,45.99,2,Pizza,Hawaiian Pizza,2025-02-12 00:00:00,ul. Chlopska 48,80-368
+ORD0251,37.99,2,Pizza,Vegetarian Pizza,2025-02-12 00:00:00,ul. Chlopska 48,80-368
+ORD0252,39.99,2,Pizza,Margherita Pizza,2025-02-12 00:00:00,ul. Jana Pawla II 30,80-462
+ORD0252,48.99,1,Pizza,Ham Pizza,2025-02-12 00:00:00,ul. Jana Pawla II 30,80-462
+ORD0253,46.99,1,Pizza,Mushroom Pizza,2025-02-13 00:00:00,ul. Ogarna 110,80-826
+ORD0253,49.99,2,Pizza,Vegetarian Pizza,2025-02-13 00:00:00,ul. Ogarna 110,80-826
+ORD0254,36.99,1,Pizza,Ham Pizza,2025-02-13 00:00:00,ul. Jaskowa Dolina 102,80-286
+ORD0254,34.99,2,Pizza,Mushroom Pizza,2025-02-13 00:00:00,ul. Jaskowa Dolina 102,80-286
+ORD0255,39.99,2,Pizza,Margherita Pizza,2025-02-14 00:00:00,ul. Przymorze Wielkie 44,80-365
+ORD0255,38.99,1,Pizza,Ricotta Pizza,2025-02-14 00:00:00,ul. Przymorze Wielkie 44,80-365
+ORD0256,48.99,2,Pizza,Ham Pizza,2025-02-14 00:00:00,ul. Lostowicka 37,80-174
+ORD0256,49.99,3,Pizza,Vegetarian Pizza,2025-02-14 00:00:00,ul. Lostowicka 37,80-174
+ORD0257,32.99,3,Pizza,Pepperoni Pizza,2025-02-15 00:00:00,ul. Wita Stwosza 58,80-308
+ORD0257,36.99,1,Pizza,Ham Pizza,2025-02-15 00:00:00,ul. Wita Stwosza 58,80-308
+ORD0258,52.99,2,Pizza,Ricotta Pizza,2025-02-15 00:00:00,ul. Wzgórze Focha 6,80-163
+ORD0258,37.99,1,Pizza,Vegetarian Pizza,2025-02-15 00:00:00,ul. Wzgórze Focha 6,80-163
+ORD0259,46.99,1,Pizza,Mushroom Pizza,2025-02-16 00:00:00,ul. Sloneczna Dolina 15,80-603
+ORD0259,29.99,2,Pizza,Margherita Pizza,2025-02-16 00:00:00,ul. Sloneczna Dolina 15,80-603
+ORD0260,34.99,2,Pizza,Mushroom Pizza,2025-02-16 00:00:00,ul. Cedrowa 19,80-126
+ORD0260,44.99,1,Pizza,Pepperoni Pizza,2025-02-16 00:00:00,ul. Cedrowa 19,80-126
+ORD0261,45.99,3,Pizza,Hawaiian Pizza,2025-02-17 00:00:00,ul. Kielnienska 99,80-299
+ORD0261,36.99,1,Pizza,Ham Pizza,2025-02-17 00:00:00,ul. Kielnienska 99,80-299
+ORD0262,32.99,2,Pizza,Pepperoni Pizza,2025-02-17 00:00:00,ul. Leona Wyczólkowskiego 5,80-138
+ORD0262,52.99,1,Pizza,Ricotta Pizza,2025-02-17 00:00:00,ul. Leona Wyczólkowskiego 5,80-138
+ORD0263,34.99,2,Pizza,Mushroom Pizza,2025-02-18 00:00:00,ul. Jabloniowa 72,80-180
+ORD0263,37.99,1,Pizza,Vegetarian Pizza,2025-02-18 00:00:00,ul. Jabloniowa 72,80-180
+ORD0264,46.99,2,Pizza,Mushroom Pizza,2025-02-18 00:00:00,ul. Slowackiego 115,80-257
+ORD0264,49.99,1,Pizza,Vegetarian Pizza,2025-02-18 00:00:00,ul. Slowackiego 115,80-257
+ORD0265,44.99,1,Pizza,Pepperoni Pizza,2025-02-19 00:00:00,ul. Wilanowska 42,80-809
+ORD0265,48.99,2,Pizza,Ham Pizza,2025-02-19 00:00:00,ul. Wilanowska 42,80-809
+ORD0266,32.99,2,Pizza,Pepperoni Pizza,2025-02-19 00:00:00,ul. Orzeszkowej 31,80-435
+ORD0266,52.99,1,Pizza,Ricotta Pizza,2025-02-19 00:00:00,ul. Orzeszkowej 31,80-435
+ORD0267,29.99,3,Pizza,Margherita Pizza,2025-02-20 00:00:00,ul. Nowiny 28,80-020
+ORD0267,37.99,1,Pizza,Vegetarian Pizza,2025-02-20 00:00:00,ul. Nowiny 28,80-020
+ORD0268,39.99,2,Pizza,Margherita Pizza,2025-02-20 00:00:00,ul. Strzyza 8,80-299
+ORD0268,36.99,1,Pizza,Ham Pizza,2025-02-20 00:00:00,ul. Strzyza 8,80-299
+ORD0269,32.99,3,Pizza,Pepperoni Pizza,2025-02-21 00:00:00,ul. Beethovena 45,80-171
+ORD0269,46.99,2,Pizza,Mushroom Pizza,2025-02-21 00:00:00,ul. Beethovena 45,80-171
+ORD0270,49.99,2,Pizza,Vegetarian Pizza,2025-02-21 00:00:00,ul. Obronców Wybrzeza 10,80-398
+ORD0270,48.99,1,Pizza,Ham Pizza,2025-02-21 00:00:00,ul. Obronców Wybrzeza 10,80-398
+ORD0271,34.99,3,Pizza,Mushroom Pizza,2025-02-22 00:00:00,ul. Karwienska 9,80-551
+ORD0271,38.99,2,Pizza,Ricotta Pizza,2025-02-22 00:00:00,ul. Karwienska 9,80-551
+ORD0272,29.99,2,Pizza,Margherita Pizza,2025-02-22 00:00:00,ul. Piecewska 42,80-288
+ORD0272,44.99,1,Pizza,Pepperoni Pizza,2025-02-22 00:00:00,ul. Piecewska 42,80-288
+ORD0273,46.99,3,Pizza,Mushroom Pizza,2025-02-23 00:00:00,ul. Konrada Wallenroda 3,80-017
+ORD0273,37.99,2,Pizza,Vegetarian Pizza,2025-02-23 00:00:00,ul. Konrada Wallenroda 3,80-017
+ORD0274,32.99,2,Pizza,Pepperoni Pizza,2025-02-23 00:00:00,ul. Arkonska 8,80-387
+ORD0274,52.99,1,Pizza,Ricotta Pizza,2025-02-23 00:00:00,ul. Arkonska 8,80-387
+ORD0275,48.99,2,Pizza,Ham Pizza,2025-02-24 00:00:00,ul. Niepolomicka 55,80-180
+ORD0275,45.99,3,Pizza,Hawaiian Pizza,2025-02-24 00:00:00,ul. Niepolomicka 55,80-180
+ORD0276,44.99,2,Pizza,Pepperoni Pizza,2025-02-24 00:00:00,ul. Hallera 145,80-416
+ORD0276,36.99,1,Pizza,Ham Pizza,2025-02-24 00:00:00,ul. Hallera 145,80-416
+ORD0277,29.99,3,Pizza,Margherita Pizza,2025-02-25 00:00:00,ul. Juliusza Slowackiego 198,80-298
+ORD0277,38.99,2,Pizza,Ricotta Pizza,2025-02-25 00:00:00,ul. Juliusza Slowackiego 198,80-298
+ORD0278,37.99,1,Pizza,Vegetarian Pizza,2025-02-25 00:00:00,ul. Na Wzgórzu 12,80-603
+ORD0278,34.99,2,Pizza,Mushroom Pizza,2025-02-25 00:00:00,ul. Na Wzgórzu 12,80-603
+ORD0365,26.99,1,Pasta,Spaghetti Bolognese,2025-01-01 12:15:00,ul. Waska 7,80-180
+ORD0365,6.99,1,Salad,Caesar Salad,2025-01-01 12:15:00,ul. Waska 7,80-180
+ORD0366,3.49,2,Bread,Focaccia Bread,2025-01-01 18:45:00,ul. Wisniowa 16,80-299
+ORD0366,1.49,1,Drink,Soda,2025-01-01 18:45:00,ul. Wisniowa 16,80-299
+ORD0367,12.99,1,Pasta,Fettuccine Alfredo,2025-01-05 19:30:00,ul. Czeresniowa 3,80-176
+ORD0367,7.49,1,Salad,Greek Salad,2025-01-05 19:30:00,ul. Czeresniowa 3,80-176
+ORD0367,4.99,1,Dessert,Cheesecake,2025-01-05 19:30:00,ul. Czeresniowa 3,80-176
+ORD0368,12.99,1,Drink,Red Wine,2025-01-05 20:10:00,ul. Poziomkowa 22,80-180
+ORD0369,14.99,1,Pasta,Bolognese Lasagna,2025-01-12 13:20:00,ul. Golebia 9,80-299
+ORD0369,3.99,2,Bread,Garlic Bread,2025-01-12 13:20:00,ul. Golebia 9,80-299
+ORD0370,19.99,1,Pasta,Penne Arrabbiata,2025-01-17 19:50:00,ul. Sokola 15,80-180
+ORD0370,8.99,1,Salad,Avocado Salad,2025-01-17 19:50:00,ul. Sokola 15,80-180
+ORD0370,5.49,1,Dessert,Tiramisu,2025-01-17 19:50:00,ul. Sokola 15,80-180
+ORD0371,12.99,1,Drink,White Wine,2025-01-17 20:30:00,ul. Zurawia 5,80-299
+ORD0372,12.49,1,Pasta,Pesto Pasta,2025-01-25 18:40:00,ul. Orla 12,80-176
+ORD0372,6.99,1,Salad,Caesar Salad,2025-01-25 18:40:00,ul. Orla 12,80-176
+ORD0372,18.99,1,Dessert,Cheesecake,2025-01-25 18:40:00,ul. Orla 12,80-176
+ORD0373,14.99,1,Pasta,Bolognese Lasagna,2025-02-08 19:10:00,ul. Blawatna 14,80-180
+ORD0373,7.49,1,Salad,Greek Salad,2025-02-08 19:10:00,ul. Blawatna 14,80-180
+ORD0373,5.49,2,Dessert,Tiramisu,2025-02-08 19:10:00,ul. Blawatna 14,80-180
+ORD0374,4.99,2,Dessert,Cheesecake,2025-02-14 20:00:00,ul. Wilcza 10,80-299
+ORD0374,12.99,1,Drink,Red Wine,2025-02-14 20:00:00,ul. Wilcza 10,80-299
+ORD0375,12.99,1,Pasta,Fettuccine Alfredo,2025-02-14 19:20:00,ul. Lisia 3,80-180
+ORD0375,5.49,1,Dessert,Tiramisu,2025-02-14 19:20:00,ul. Lisia 3,80-180
+ORD0376,13.49,1,Pasta,Penne Arrabbiata,2025-02-28 18:55:00,ul. Losia 6,80-299
+ORD0376,10.49,1,Salad,Greek Salad,2025-02-28 18:55:00,ul. Losia 6,80-299
+ORD0376,12.99,1,Drink,White Wine,2025-02-28 18:55:00,ul. Losia 6,80-299
+ORD0150,5.49,2,Dessert,Tiramisu,2025-01-08 12:30:00,ul. Klonowa 18,80-180
+ORD0150,2.99,3,Drink,Sparkling Water,2025-01-08 12:30:00,ul. Klonowa 18,80-180
+ORD0151,5.49,1,Dessert,Tiramisu,2025-01-09 14:00:00,ul. Wiosenna 7,80-180
+ORD0151,2.99,2,Drink,Sparkling Water,2025-01-09 14:00:00,ul. Wiosenna 7,80-180
+ORD0152,12.49,1,Pasta,Pesto Pasta,2025-01-10 16:00:00,ul. Malinowa 9,80-180
+ORD0152,12.99,3,Pasta,Fettuccine Alfredo,2025-01-10 16:00:00,ul. Malinowa 9,80-180
+ORD0152,7.49,2,Salad,Greek Salad,2025-01-10 16:00:00,ul. Malinowa 9,80-180
+ORD0153,10.49,2,Salad,Greek Salad,2025-01-11 17:30:00,ul. Jagodowa 3,80-180
+ORD0153,7.49,1,Salad,Greek Salad,2025-01-11 17:30:00,ul. Jagodowa 3,80-180
+ORD0153,12.49,3,Pasta,Pesto Pasta,2025-01-11 17:30:00,ul. Jagodowa 3,80-180
+ORD0154,11.99,3,Salad,Avocado Salad,2025-01-12 14:40:00,ul. Truskawkowa 2,80-180
+ORD0154,3.99,2,Bread,Garlic Bread,2025-01-12 14:40:00,ul. Truskawkowa 2,80-180
+ORD0154,7.49,1,Salad,Greek Salad,2025-01-12 14:40:00,ul. Truskawkowa 2,80-180
+ORD0155,5.49,1,Dessert,Tiramisu,2025-01-13 12:30:00,ul. Poziomkowa 8,80-180
+ORD0155,10.49,3,Salad,Greek Salad,2025-01-13 12:30:00,ul. Poziomkowa 8,80-180
+ORD0156,14.99,2,Pasta,Bolognese Lasagna,2025-01-14 14:10:00,ul. Borówkowa 6,80-180
+ORD0156,2.99,3,Drink,Sparkling Water,2025-01-14 14:10:00,ul. Borówkowa 6,80-180
+ORD0156,18.99,1,Pasta,Bolognese Lasagna,2025-01-14 14:10:00,ul. Borówkowa 6,80-180
+ORD0157,12.99,3,Pasta,Fettuccine Alfredo,2025-01-15 13:50:00,ul. Cynamonowa 14,80-180
+ORD0157,12.99,1,Pasta,Fettuccine Alfredo,2025-01-15 13:50:00,ul. Cynamonowa 14,80-180
+ORD0158,12.49,2,Pasta,Pesto Pasta,2025-01-16 17:00:00,ul. Mietowa 5,80-180
+ORD0158,5.49,3,Dessert,Tiramisu,2025-01-16 17:00:00,ul. Mietowa 5,80-180
+ORD0159,2.99,2,Drink,Sparkling Water,2025-01-17 12:30:00,ul. Imbirowa 7,80-180
+ORD0160,5.49,2,Bread,Garlic Bread,2025-01-18 14:30:00,ul. Lawendowa 18,80-180
+ORD0161,14.99,3,Pasta,Bolognese Lasagna,2025-01-19 16:20:00,ul. Rumiankowa 10,80-180
+ORD0162,12.99,3,Pasta,Fettuccine Alfredo,2025-01-20 11:30:00,ul. Jasminowa 21,80-180
+ORD0162,14.99,1,Pasta,Bolognese Lasagna,2025-01-20 11:30:00,ul. Jasminowa 21,80-180
+ORD0163,7.49,1,Salad,Greek Salad,2025-01-21 14:10:00,ul. Fiolkowa 6,80-180
+ORD0163,12.99,3,Pasta,Fettuccine Alfredo,2025-01-21 14:10:00,ul. Fiolkowa 6,80-180
+ORD0164,5.49,1,Dessert,Tiramisu,2025-01-22 16:00:00,ul. Debowa 9,80-180
+ORD0165,1.99,2,Drink,Sparkling Water,2025-01-23 12:40:00,ul. Sosnowa 4,80-180
+ORD0166,2.99,1,Drink,Sparkling Water,2025-01-24 14:30:00,ul. Swierkowa 3,80-180
+ORD0167,12.49,1,Pasta,Pesto Pasta,2025-01-25 15:00:00,ul. Jodlowa 8,80-180
+ORD0168,18.99,3,Pasta,Bolognese Lasagna,2025-01-26 12:30:00,ul. Brzozowa 10,80-180
+ORD0169,2.99,2,Drink,Sparkling Water,2025-01-27 14:10:00,ul. Akacjowa 12,80-180
+ORD0170,10.49,2,Salad,Greek Salad,2025-01-28 16:00:00,ul. Orzechowa 5,80-180
+ORD0171,12.99,1,Pasta,Fettuccine Alfredo,2025-01-29 13:30:00,ul. Leszczynowa 14,80-180
+ORD0172,12.99,1,Pasta,Fettuccine Alfredo,2025-01-30 14:40:00,ul. Modrzewiowa 7,80-180
+ORD0173,7.49,1,Salad,Greek Salad,2025-02-01 16:30:00,ul. Cisowa 8,80-180
+ORD0174,4.99,3,Dessert,Cheesecake,2025-02-02 13:40:00,ul. Bukowa 3,80-180
+ORD0174,18.99,2,Dessert,Cheesecake,2025-02-02 13:40:00,ul. Bukowa 3,80-180
+ORD0175,19.49,1,Dessert,Tiramisu,2025-02-03 14:20:00,ul. Slowackiego 217,80-298
+ORD0177,4.99,2,Dessert,Cheesecake,2025-02-05 15:00:00,ul. Akacjowa 12,80-180
+ORD0178,4.99,3,Dessert,Cheesecake,2025-02-06 16:30:00,ul. Brzozowa 10,80-180
+ORD0179,7.49,2,Salad,Greek Salad,2025-02-07 13:00:00,ul. Jodlowa 8,80-180
+ORD0180,10.49,1,Salad,Greek Salad,2025-02-08 14:40:00,ul. Swierkowa 3,80-180
+ORD0181,19.49,1,Dessert,Tiramisu,2025-02-09 12:30:00,ul. Sosnowa 4,80-180
+ORD0182,12.99,1,Pasta,Fettuccine Alfredo,2025-02-10 13:10:00,ul. Debowa 9,80-180
+ORD0183,4.99,1,Dessert,Cheesecake,2025-02-11 14:30:00,ul. Fiolkowa 6,80-180
+ORD0184,12.99,1,Pasta,Fettuccine Alfredo,2025-02-12 15:00:00,ul. Akacjowa 12,80-180
+ORD0185,4.99,1,Dessert,Cheesecake,2025-02-13 16:40:00,ul. Orzechowa 5,80-180
+ORD0186,12.99,1,Pasta,Fettuccine Alfredo,2025-02-14 12:20:00,ul. Leszczynowa 14,80-180
+ORD0187,19.49,2,Dessert,Tiramisu,2025-02-15 14:50:00,ul. Modrzewiowa 7,80-180
+ORD0188,8.99,2,Salad,Avocado Salad,2025-02-16 16:10:00,ul. Cisowa 8,80-180
+ORD0189,8.99,3,Salad,Avocado Salad,2025-02-17 13:00:00,ul. Bukowa 3,80-180
+ORD0190,12.49,1,Pasta,Pesto Pasta,2025-02-18 15:30:00,ul. Slowackiego 217,80-298
+ORD0191,12.49,2,Pasta,Pesto Pasta,2025-02-19 16:00:00,ul. Brzozowa 10,80-180
+ORD0192,4.99,2,Dessert,Cheesecake,2025-02-20 14:40:00,ul. Akacjowa 12,80-180
+ORD0193,4.99,3,Dessert,Cheesecake,2025-02-21 13:30:00,ul. Orzechowa 5,80-180
+ORD0194,19.49,1,Dessert,Tiramisu,2025-02-22 16:00:00,ul. Leszczynowa 14,80-180
+ORD0195,4.99,1,Dessert,Cheesecake,2025-02-23 13:20:00,ul. Modrzewiowa 7,80-180
+ORD0196,4.99,3,Dessert,Cheesecake,2025-02-24 15:30:00,ul. Cisowa 8,80-180
+ORD0197,12.49,1,Pasta,Pesto Pasta,2025-02-25 14:00:00,ul. Bukowa 3,80-180
+ORD0198,14.99,2,Pasta,Fettuccine Alfredo,2025-02-26 16:10:00,ul. Slowackiego 217,80-298
+ORD0199,6.99,3,Salad,Caesar Salad,2025-02-27 12:40:00,ul. Akacjowa 12,80-180
+ORD0200,8.99,3,Salad,Avocado Salad,2025-02-28 13:20:00,ul. Orzechowa 5,80-180
+ORD0201,8.99,2,Salad,Avocado Salad,2025-02-28 16:30:00,ul. Leszczynowa 14,80-180
+ORD0201,1.99,1,Drink,Sparkling Water,2025-02-28 16:30:00,ul. Leszczynowa 14,80-180
+ORD0202,12.49,2,Pasta,Pesto Pasta,2025-02-28 17:00:00,ul. Modrzewiowa 7,80-180
+ORD0202,8.99,1,Salad,Avocado Salad,2025-02-28 17:00:00,ul. Modrzewiowa 7,80-180
+ORD0098,26.99,3,Pasta,Spaghetti Bolognese,2025-02-13 12:00:00,ul. Jabloniowa 41,80-180
+ORD0098,4.99,2,Dessert,Cheesecake,2025-02-13 12:00:00,ul. Jabloniowa 41,80-180
+ORD0098,2.99,1,Drink,Sparkling Water,2025-02-13 12:00:00,ul. Jabloniowa 41,80-180
+ORD0099,6.99,1,Salad,Caesar Salad,2025-02-12 15:30:00,ul. Konwaliowa 9,80-297
+ORD0099,31.99,2,Pasta,Spaghetti Bolognese,2025-02-12 15:30:00,ul. Konwaliowa 9,80-297
+ORD0099,2.99,3,Drink,Sparkling Water,2025-02-12 15:30:00,ul. Konwaliowa 9,80-297
+ORD0100,1.49,1,Drink,Soda,2025-02-11 16:00:00,ul. Magnoliowa 5,80-301
+ORD0100,12.99,2,Pasta,Fettuccine Alfredo,2025-02-11 16:00:00,ul. Magnoliowa 5,80-301
+ORD0100,4.99,3,Dessert,Cheesecake,2025-02-11 16:00:00,ul. Magnoliowa 5,80-301
+ORD0101,14.99,2,Pasta,Fettuccine Alfredo,2025-02-10 14:30:00,ul. Morska 38,80-706
+ORD0101,6.99,1,Salad,Caesar Salad,2025-02-10 14:30:00,ul. Morska 38,80-706
+ORD0101,11.99,3,Salad,Avocado Salad,2025-02-10 14:30:00,ul. Morska 38,80-706
+ORD0102,19.99,1,Pasta,Penne Arrabbiata,2025-02-09 11:10:00,ul. Królewska 6,80-340
+ORD0102,8.99,2,Salad,Avocado Salad,2025-02-09 11:10:00,ul. Królewska 6,80-340
+ORD0102,2.99,3,Drink,Sparkling Water,2025-02-09 11:10:00,ul. Królewska 6,80-340
+ORD0103,6.99,1,Salad,Caesar Salad,2025-02-08 14:40:00,ul. Pilotów 19,80-460
+ORD0103,3.49,2,Bread,Focaccia Bread,2025-02-08 14:40:00,ul. Pilotów 19,80-460
+ORD0103,6.99,3,Salad,Caesar Salad,2025-02-08 14:40:00,ul. Pilotów 19,80-460
+ORD0104,13.49,3,Pasta,Penne Arrabbiata,2025-02-07 16:10:00,ul. Pomorska 73,80-343
+ORD0104,2.99,2,Drink,Sparkling Water,2025-02-07 16:10:00,ul. Pomorska 73,80-343
+ORD0104,12.49,1,Pasta,Pesto Pasta,2025-02-07 16:10:00,ul. Pomorska 73,80-343
+ORD0105,36.99,2,Pizza,Ham Pizza,2025-02-06 17:00:00,ul. Gospody 8,80-344
+ORD0105,3.99,3,Bread,Garlic Bread,2025-02-06 17:00:00,ul. Gospody 8,80-344
+ORD0105,6.99,1,Salad,Caesar Salad,2025-02-06 17:00:00,ul. Gospody 8,80-344
+ORD0106,15.49,3,Pasta,Pesto Pasta,2025-02-05 14:10:00,ul. Targ Rybny 11,80-838
+ORD0106,4.99,2,Bread,Focaccia Bread,2025-02-05 14:10:00,ul. Targ Rybny 11,80-838
+ORD0106,11.99,1,Salad,Avocado Salad,2025-02-05 14:10:00,ul. Targ Rybny 11,80-838
+ORD0107,2.99,2,Drink,Sparkling Water,2025-02-04 16:30:00,ul. Sucha 29,80-531
+ORD0107,7.49,1,Salad,Greek Salad,2025-02-04 16:30:00,ul. Sucha 29,80-531
+ORD0107,14.99,3,Pasta,Bolognese Lasagna,2025-02-04 16:30:00,ul. Sucha 29,80-531
+ORD0108,3.49,1,Bread,Focaccia Bread,2025-02-03 14:20:00,ul. Cienista 20,80-768
+ORD0108,7.49,3,Salad,Greek Salad,2025-02-03 14:20:00,ul. Cienista 20,80-768
+ORD0108,6.99,2,Salad,Caesar Salad,2025-02-03 14:20:00,ul. Cienista 20,80-768
+ORD0109,12.99,2,Drink,Red Wine,2025-02-02 12:40:00,ul. Chlopska 48,80-368
+ORD0109,4.99,3,Dessert,Cheesecake,2025-02-02 12:40:00,ul. Chlopska 48,80-368
+ORD0110,18.99,3,Pasta,Bolognese Lasagna,2025-02-01 17:10:00,ul. Wisniowa 16,80-299
+ORD0110,37.99,2,Pizza,Vegetarian Pizza,2025-02-01 17:10:00,ul. Wisniowa 16,80-299
+ORD0110,19.99,1,Pasta,Penne Arrabbiata,2025-02-01 17:10:00,ul. Wisniowa 16,80-299
+ORD0111,26.99,2,Pasta,Spaghetti Bolognese,2025-01-31 16:00:00,ul. Czeresniowa 3,80-176
+ORD0111,6.99,1,Salad,Caesar Salad,2025-01-31 16:00:00,ul. Czeresniowa 3,80-176
+ORD0111,5.49,3,Dessert,Tiramisu,2025-01-31 16:00:00,ul. Czeresniowa 3,80-176
+ORD0112,12.99,1,Pasta,Fettuccine Alfredo,2025-01-30 15:40:00,ul. Poziomkowa 22,80-180
+ORD0112,5.49,3,Dessert,Tiramisu,2025-01-30 15:40:00,ul. Poziomkowa 22,80-180
+ORD0112,4.99,2,Dessert,Cheesecake,2025-01-30 15:40:00,ul. Poziomkowa 22,80-180
+ORD0113,12.99,1,Pasta,Fettuccine Alfredo,2025-01-29 14:50:00,ul. Golebia 9,80-299
+ORD0113,6.99,3,Salad,Caesar Salad,2025-01-29 14:50:00,ul. Golebia 9,80-299
+ORD0113,8.99,2,Salad,Avocado Salad,2025-01-29 14:50:00,ul. Golebia 9,80-299
+ORD0114,26.99,3,Pasta,Spaghetti Bolognese,2025-01-28 18:10:00,ul. Sokola 15,80-180
+ORD0114,1.99,2,Drink,Sparkling Water,2025-01-28 18:10:00,ul. Sokola 15,80-180
+ORD0114,12.99,1,Drink,Red Wine,2025-01-28 18:10:00,ul. Sokola 15,80-180
+ORD0115,12.99,1,Pasta,Fettuccine Alfredo,2025-01-27 12:20:00,ul. Zurawia 5,80-299
+ORD0115,5.49,2,Dessert,Tiramisu,2025-01-27 12:20:00,ul. Zurawia 5,80-299
+ORD0115,4.99,3,Dessert,Cheesecake,2025-01-27 12:20:00,ul. Zurawia 5,80-299
+ORD0116,19.99,2,Pasta,Penne Arrabbiata,2025-01-26 16:40:00,ul. Orla 12,80-176
+ORD0116,48.99,3,Pizza,Ham Pizza,2025-01-26 16:40:00,ul. Orla 12,80-176
+ORD0117,12.49,3,Pasta,Pesto Pasta,2025-01-25 18:30:00,ul. Blawatna 14,80-180
+ORD0118,2.99,3,Drink,Sparkling Water,2025-01-24 15:50:00,ul. Wilcza 10,80-299
+ORD0119,14.99,1,Pasta,Bolognese Lasagna,2025-01-23 17:10:00,ul. Lisia 3,80-180
+ORD0120,2.99,1,Drink,Sparkling Water,2025-01-22 12:00:00,ul. Losia 6,80-299
+ORD0121,8.99,2,Salad,Avocado Salad,2025-01-21 18:00:00,ul. Dzieciola 21,80-176
+ORD0122,32.99,3,Pizza,Pepperoni Pizza,2025-01-20 16:10:00,ul. Zbikowa 5,80-180
+ORD0123,2.99,1,Drink,Sparkling Water,2025-01-19 13:00:00,ul. Jastrzebia 11,80-299
+ORD0123,12.99,2,Pasta,Fettuccine Alfredo,2025-01-19 13:00:00,ul. Jastrzebia 11,80-299
+ORD0124,5.49,1,Dessert,Tiramisu,2025-01-18 14:40:00,ul. Sokola 15,80-180
+ORD0125,5.49,3,Dessert,Tiramisu,2025-01-17 16:30:00,ul. Kartuska 342,80-125
+ORD0126,31.99,1,Pasta,Spaghetti Bolognese,2025-01-16 15:20:00,ul. Mysliwska 23,80-283
+ORD0127,5.49,2,Dessert,Tiramisu,2025-01-15 12:30:00,ul. Guderskiego 8,80-180
+ORD0128,4.99,1,Dessert,Cheesecake,2025-01-14 17:40:00,ul. Cieszynskiego 14,80-809
+ORD0129,31.99,2,Pasta,Spaghetti Bolognese,2025-01-13 18:50:00,ul. Porebskiego 17,80-180
+ORD0130,4.99,1,Dessert,Cheesecake,2025-01-12 14:20:00,ul. Bergiela 9,80-180
+ORD0131,26.99,1,Pasta,Spaghetti Bolognese,2025-01-11 16:00:00,ul. Ujescisko 71,80-122
+ORD0015,26.99,3,Pasta,Spaghetti Bolognese,2025-01-21 12:30:00,ul. Piwna 26,80-831
+ORD0016,19.99,1,Pasta,Penne Arrabbiata,2025-01-22 17:50:00,ul. Szeroka 41,80-835
+ORD0017,12.99,1,Pasta,Fettuccine Alfredo,2025-01-23 15:40:00,ul. Lastadia 17,80-880
+ORD0018,31.99,2,Pasta,Spaghetti Bolognese,2025-01-24 13:30:00,ul. Lakowa 60,80-769
+ORD0019,26.99,1,Pasta,Spaghetti Bolognese,2025-01-25 19:00:00,ul. Straganiarska 15,80-837
+ORD0020,12.99,1,Pasta,Fettuccine Alfredo,2025-01-26 12:20:00,ul. Zabi Kruk 8,80-822
+ORD0021,26.99,3,Pasta,Spaghetti Bolognese,2025-01-28 15:10:00,ul. Czopowa 23,80-882
+ORD0022,26.99,1,Pasta,Spaghetti Bolognese,2025-01-29 14:00:00,ul. Angielska Grobla 11,80-756
+ORD0023,12.99,2,Pasta,Fettuccine Alfredo,2025-01-30 16:40:00,ul. Torunska 18,80-747
+ORD0024,19.99,3,Pasta,Penne Arrabbiata,2025-02-01 18:20:00,ul. Stara Stocznia 25,80-862
+ORD0025,12.49,2,Pasta,Pesto Pasta,2025-02-02 12:00:00,ul. Zielona 9,80-802
+ORD0026,12.49,1,Pasta,Pesto Pasta,2025-02-03 14:30:00,ul. Walowa 35,80-858
+ORD0027,14.99,3,Pasta,Bolognese Lasagna,2025-02-04 13:20:00,ul. Trakt Swietego Wojciecha 195,80-017
+ORD0028,26.99,2,Pasta,Spaghetti Bolognese,2025-02-05 15:00:00,ul. Chmielna 101,80-748
+ORD0029,14.99,1,Pasta,Bolognese Lasagna,2025-02-06 12:40:00,ul. Szafarnia 5,80-755
+ORD0030,18.99,3,Pasta,Bolognese Lasagna,2025-02-07 11:10:00,ul. Nowe Ogrody 23,80-803
+ORD0031,26.99,2,Pasta,Spaghetti Bolognese,2025-02-08 14:00:00,ul. Polanki 124,80-308
+ORD0032,12.99,1,Pasta,Fettuccine Alfredo,2025-02-09 15:20:00,ul. Wita Stwosza 58,80-308
+ORD0033,19.99,1,Pasta,Penne Arrabbiata,2025-02-10 12:30:00,ul. Gospody 6,80-344
+ORD0034,31.99,2,Pasta,Spaghetti Bolognese,2025-02-11 14:40:00,ul. Pomorska 94,80-333
+ORD0035,19.99,3,Pasta,Penne Arrabbiata,2025-02-12 16:00:00,ul. Jelitkowska 15,80-342
+ORD0036,12.49,1,Pasta,Pesto Pasta,2025-02-13 14:00:00,ul. Subislawa 23,80-354
+ORD0037,12.99,2,Pasta,Fettuccine Alfredo,2025-02-14 15:00:00,ul. Piastowska 70,80-363
+ORD0038,13.49,3,Pasta,Penne Arrabbiata,2025-02-15 13:30:00,ul. Obronców Wybrzeza 11,80-398
+ORD0039,14.99,2,Pasta,Bolognese Lasagna,2025-02-16 14:20:00,ul. Kolobrzeska 9,80-394
+ORD0040,4.99,2,Dessert,Cheesecake,2025-02-17 12:30:00,ul. Leborska 18,80-386
+ORD0041,4.99,3,Dessert,Cheesecake,2025-02-18 13:10:00,ul. Hynka 27,80-465
+ORD0042,4.99,1,Dessert,Cheesecake,2025-02-19 11:30:00,ul. Zlota Karczma 35,80-298
+ORD0043,4.99,3,Dessert,Cheesecake,2025-02-20 12:40:00,ul. Slowackiego 50,80-257
+ORD0044,5.49,3,Dessert,Tiramisu,2025-02-21 14:50:00,ul. Wrzeszczanska 21,80-419
+ORD0045,5.49,2,Dessert,Tiramisu,2025-02-22 15:20:00,ul. Migowska 77,80-287
+ORD0046,5.49,1,Dessert,Tiramisu,2025-02-23 17:40:00,ul. Piecewska 34,80-288
+ORD0047,5.49,1,Dessert,Tiramisu,2025-02-24 17:40:00,ul. Mysliwska 47,80-283
+ORD0048,4.99,2,Dessert,Cheesecake,2025-02-25 12:20:00,ul. Kartuska 400,80-125
+ORD0049,5.49,2,Dessert,Tiramisu,2025-02-26 14:00:00,ul. Jabloniowa 20,80-180
+ORD0050,5.49,2,Dessert,Tiramisu,2025-02-27 13:10:00,ul. Cedrowa 35,80-126
+ORD0051,5.49,1,Dessert,Tiramisu,2025-02-28 12:00:00,ul. Warszawska 70,80-180
+ORD0052,5.49,1,Dessert,Tiramisu,2025-02-01 13:30:00,ul. Swietokrzyska 97,80-180
+ORD0053,4.99,2,Dessert,Cheesecake,2025-02-02 14:40:00,ul. Czluchowska 21,80-180
+ORD0054,12.99,1,Drink,White Wine,2025-02-03 15:50:00,ul. Starogardzka 12,80-180
+ORD0055,12.99,2,Drink,Red Wine,2025-02-04 11:40:00,ul. Stoczniowców 29,80-299
+ORD0056,4.99,3,Dessert,Cheesecake,2025-02-05 12:30:00,ul. Sucha 17,80-530
+ORD0057,4.99,1,Dessert,Cheesecake,2025-02-06 14:20:00,ul. Stoczniowców 12,80-862
+ORD0058,7.49,1,Salad,Greek Salad,2025-02-07 11:10:00,ul. Sucha 7,80-531
+ORD0059,11.99,1,Salad,Avocado Salad,2025-02-08 13:30:00,ul. Ptasia 23,80-880
+ORD0060,7.49,3,Salad,Greek Salad,2025-02-09 12:40:00,ul. Rycerska 15,80-855
+ORD0061,9.99,2,Salad,Caesar Salad,2025-02-10 14:30:00,ul. Jesionowa 8,80-261
+ORD0062,7.49,3,Salad,Greek Salad,2025-02-11 11:50:00,ul. Browarna 4,80-859
+ORD0063,8.99,2,Salad,Avocado Salad,2025-02-12 12:00:00,ul. Wierzbowa 19,80-140
+ORD0064,11.99,3,Salad,Avocado Salad,2025-02-13 15:20:00,ul. Liliowa 33,80-299
+ORD0065,7.49,2,Salad,Greek Salad,2025-02-14 14:10:00,ul. Swidnicka 14,80-168
+ORD0066,9.99,1,Salad,Caesar Salad,2025-02-15 13:30:00,ul. Opacka 27,80-338
+ORD0067,6.99,3,Salad,Caesar Salad,2025-02-16 14:50:00,ul. Karpacka 5,80-144
+ORD0068,8.99,3,Salad,Avocado Salad,2025-02-17 11:40:00,ul. Kosciuszki 49,80-408
+ORD0069,3.99,2,Bread,Garlic Bread,2025-02-18 14:10:00,ul. Startowa 11,80-391
+ORD0070,7.49,2,Salad,Greek Salad,2025-02-19 12:50:00,ul. Polna 6,80-305
+ORD0071,3.99,1,Bread,Garlic Bread,2025-02-20 11:30:00,ul. Górnicza 3,80-314
+ORD0072,3.49,3,Bread,Focaccia Bread,2025-02-21 12:20:00,ul. Wczasowa 9,80-516
+ORD0073,3.49,1,Bread,Focaccia Bread,2025-02-22 14:00:00,ul. Targ Sienny 7,80-806
+ORD0074,8.99,2,Salad,Avocado Salad,2025-02-23 13:10:00,ul. Oliwska 41,80-563
+ORD0076,6.99,2,Salad,Caesar Salad,2025-02-25 14:20:00,ul. Krótka 21,80-279
+ORD0077,3.49,2,Bread,Focaccia Bread,2025-02-26 12:00:00,ul. Stalowa 18,80-434
+ORD0078,3.49,1,Bread,Focaccia Bread,2025-02-27 13:40:00,ul. Jantarowa 22,80-347
+ORD0079,3.99,3,Bread,Garlic Bread,2025-02-28 11:20:00,ul. Wita Stwosza 56,80-312
+ORD0080,3.49,1,Bread,Focaccia Bread,2025-02-28 14:30:00,ul. Szczesliwa 19,80-176
+ORD0081,3.99,2,Bread,Garlic Bread,2025-02-28 13:00:00,ul. Bohaterów Getta 8,80-831
+ORD0082,5.49,2,Bread,Garlic Bread,2025-02-28 12:10:00,ul. Lódzka 99,80-388
+ORD0084,5.49,1,Bread,Garlic Bread,2025-02-26 12:30:00,ul. Jodlowa 77,80-297
+ORD0085,5.49,1,Bread,Garlic Bread,2025-02-25 13:40:00,ul. Astronomów 10,80-299
+ORD0086,2.49,3,Drink,Soda,2025-02-24 11:10:00,ul. Kamienna 23,80-306
+ORD0087,2.49,2,Drink,Soda,2025-02-23 14:00:00,ul. Krzyzowa 16,80-165
+ORD0088,2.49,1,Drink,Soda,2025-02-23 13:30:00,ul. Spacerowa 50,80-330
+ORD0089,2.49,3,Drink,Soda,2025-02-22 12:40:00,ul. Na Wzgórzu 13,80-282
+ORD0090,4.99,1,Bread,Focaccia Bread,2025-02-21 14:20:00,ul. Brzozowa 14,80-176
+ORD0091,9.99,1,Salad,Caesar Salad,2025-02-20 13:00:00,ul. Fiolkowa 4,80-177
+ORD0092,8.99,3,Salad,Avocado Salad,2025-02-19 14:10:00,ul. Malczewskiego 55,80-275
+ORD0093,12.49,1,Pasta,Pesto Pasta,2025-02-18 13:20:00,ul. Sloneczna 28,80-180
+ORD0094,7.49,1,Salad,Greek Salad,2025-02-17 11:00:00,ul. Slowackiego 99,80-390
+ORD0095,19.99,1,Pasta,Penne Arrabbiata,2025-02-16 13:10:00,ul. Reduta Wyskok 9,80-706
+ORD0096,3.49,1,Bread,Focaccia Bread,2025-02-15 14:50:00,ul. Podwale Staromiejskie 3,80-844
+ORD0097,14.99,3,Pasta,Bolognese Lasagna,2025-02-14 11:30:00,ul. Bajeczna 25,80-684
+ORD0377,26.99,1,Pasta,Spaghetti Bolognese,2025-03-03 12:10:00,ul. Dzieciola 21,80-176
+ORD0377,7.49,1,Salad,Greek Salad,2025-03-03 12:10:00,ul. Dzieciola 21,80-176
+ORD0378,3.49,2,Bread,Focaccia Bread,2025-03-03 18:25:00,ul. Zbikowa 5,80-180
+ORD0378,2.99,1,Drink,Sparkling Water,2025-03-03 18:25:00,ul. Zbikowa 5,80-180
+ORD0379,14.99,1,Pasta,Bolognese Lasagna,2025-03-04 19:45:00,ul. Jastrzebia 11,80-299
+ORD0379,8.99,1,Salad,Avocado Salad,2025-03-04 19:45:00,ul. Jastrzebia 11,80-299
+ORD0380,5.49,2,Dessert,Tiramisu,2025-03-04 20:05:00,ul. Sokola 15,80-180
+ORD0380,12.99,1,Drink,White Wine,2025-03-04 20:05:00,ul. Sokola 15,80-180
+ORD0365,26.99,1,Pasta,Spaghetti Bolognese,2025-01-01 12:15:00,ul. Waska 7,80-180
+ORD0365,6.99,1,Salad,Caesar Salad,2025-01-01 12:15:00,ul. Waska 7,80-180
+ORD0366,3.49,2,Bread,Focaccia Bread,2025-01-01 18:45:00,ul. Wisniowa 16,80-299
+ORD0366,1.49,1,Drink,Soda,2025-01-01 18:45:00,ul. Wisniowa 16,80-299
+ORD0367,12.99,1,Pasta,Fettuccine Alfredo,2025-01-25 19:30:00,ul. Czeresniowa 3,80-176
+ORD0367,7.49,1,Salad,Greek Salad,2025-01-25 19:30:00,ul. Czeresniowa 3,80-176
+ORD0367,4.99,1,Dessert,Cheesecake,2025-01-25 19:30:00,ul. Czeresniowa 3,80-176
+ORD0368,12.99,1,Drink,Red Wine,2025-01-25 20:10:00,ul. Poziomkowa 22,80-180
+ORD0369,14.99,1,Pasta,Bolognese Lasagna,2025-01-12 13:20:00,ul. Golebia 9,80-299
+ORD0369,3.99,2,Bread,Garlic Bread,2025-01-12 13:20:00,ul. Golebia 9,80-299
+ORD0370,19.99,1,Pasta,Penne Arrabbiata,2025-01-17 19:50:00,ul. Sokola 15,80-180
+ORD0370,8.99,1,Salad,Avocado Salad,2025-01-17 19:50:00,ul. Sokola 15,80-180
+ORD0370,5.49,1,Dessert,Tiramisu,2025-01-17 19:50:00,ul. Sokola 15,80-180
+ORD0371,12.99,1,Drink,White Wine,2025-01-17 20:30:00,ul. Zurawia 5,80-299
+ORD0372,12.49,1,Pasta,Pesto Pasta,2025-01-25 18:40:00,ul. Orla 12,80-176
+ORD0372,6.99,1,Salad,Caesar Salad,2025-01-25 18:40:00,ul. Orla 12,80-176
+ORD0372,18.99,1,Dessert,Cheesecake,2025-01-25 18:40:00,ul. Orla 12,80-176
+ORD0373,14.99,1,Pasta,Bolognese Lasagna,2025-02-08 19:10:00,ul. Blawatna 14,80-180
+ORD0373,7.49,1,Salad,Greek Salad,2025-02-08 19:10:00,ul. Blawatna 14,80-180
+ORD0373,5.49,2,Dessert,Tiramisu,2025-02-08 19:10:00,ul. Blawatna 14,80-180
+ORD0374,4.99,2,Dessert,Cheesecake,2025-02-14 20:00:00,ul. Wilcza 10,80-299
+ORD0374,12.99,1,Drink,Red Wine,2025-02-14 20:00:00,ul. Wilcza 10,80-299
+ORD0375,12.99,1,Pasta,Fettuccine Alfredo,2025-02-14 19:20:00,ul. Lisia 3,80-180
+ORD0375,5.49,1,Dessert,Tiramisu,2025-02-14 19:20:00,ul. Lisia 3,80-180
+ORD0376,13.49,1,Pasta,Penne Arrabbiata,2025-02-28 18:55:00,ul. Losia 6,80-299
+ORD0376,10.49,1,Salad,Greek Salad,2025-02-28 18:55:00,ul. Losia 6,80-299
+ORD0376,12.99,1,Drink,White Wine,2025-02-28 18:55:00,ul. Losia 6,80-299
+ORD0365,26.99,1,Pasta,Spaghetti Bolognese,2025-02-01 12:15:00,ul. Waska 7,80-180
+ORD0365,6.99,1,Salad,Caesar Salad,2025-02-01 12:15:00,ul. Waska 7,80-180
+ORD0366,3.49,2,Bread,Focaccia Bread,2025-02-01 18:45:00,ul. Wisniowa 16,80-299
+ORD0366,1.49,1,Drink,Soda,2025-02-01 18:45:00,ul. Wisniowa 16,80-299
+ORD0367,12.99,1,Pasta,Fettuccine Alfredo,2025-01-30 19:30:00,ul. Czeresniowa 3,80-176
+ORD0367,7.49,1,Salad,Greek Salad,2025-01-30 19:30:00,ul. Czeresniowa 3,80-176
+ORD0367,4.99,1,Dessert,Cheesecake,2025-01-30 19:30:00,ul. Czeresniowa 3,80-176
+ORD0368,12.99,1,Drink,Red Wine,2025-01-30 20:10:00,ul. Poziomkowa 22,80-180
+ORD0369,14.99,1,Pasta,Bolognese Lasagna,2025-01-12 13:20:00,ul. Golebia 9,80-299
+ORD0369,3.99,2,Bread,Garlic Bread,2025-01-12 13:20:00,ul. Golebia 9,80-299
+ORD0370,19.99,1,Pasta,Penne Arrabbiata,2025-01-18 19:50:00,ul. Sokola 15,80-180
+ORD0370,8.99,1,Salad,Avocado Salad,2025-01-18 19:50:00,ul. Sokola 15,80-180
+ORD0370,5.49,1,Dessert,Tiramisu,2025-01-18 19:50:00,ul. Sokola 15,80-180
+ORD0371,12.99,1,Drink,White Wine,2025-01-18 20:30:00,ul. Zurawia 5,80-299
+ORD0372,12.49,1,Pasta,Pesto Pasta,2025-01-27 18:40:00,ul. Orla 12,80-176
+ORD0372,6.99,1,Salad,Caesar Salad,2025-01-27 18:40:00,ul. Orla 12,80-176
+ORD0372,18.99,1,Dessert,Cheesecake,2025-01-27 18:40:00,ul. Orla 12,80-176
+ORD0373,14.99,1,Pasta,Bolognese Lasagna,2025-02-08 19:10:00,ul. Blawatna 14,80-180
+ORD0373,7.49,1,Salad,Greek Salad,2025-02-08 19:10:00,ul. Blawatna 14,80-180
+ORD0373,5.49,2,Dessert,Tiramisu,2025-02-08 19:10:00,ul. Blawatna 14,80-180
+ORD0374,4.99,2,Dessert,Cheesecake,2025-02-14 20:00:00,ul. Wilcza 10,80-299
+ORD0374,12.99,1,Drink,Red Wine,2025-02-14 20:00:00,ul. Wilcza 10,80-299
+ORD0375,12.99,1,Pasta,Fettuccine Alfredo,2025-02-14 19:20:00,ul. Lisia 3,80-180
+ORD0375,5.49,1,Dessert,Tiramisu,2025-02-14 19:20:00,ul. Lisia 3,80-180
+ORD0376,13.49,1,Pasta,Penne Arrabbiata,2025-02-26 18:55:00,ul. Losia 6,80-299
+ORD0376,10.49,1,Salad,Greek Salad,2025-02-26 18:55:00,ul. Losia 6,80-299
+ORD0376,12.99,1,Drink,White Wine,2025-02-26 18:55:00,ul. Losia 6,80-299
+ORD0381,19.99,1,Pasta,Penne Arrabbiata,2025-02-15 12:30:00,ul. Kartuska 342,80-125
+ORD0382,12.49,1,Pasta,Pesto Pasta,2025-02-15 18:10:00,ul. Mysliwska 23,80-283
+ORD0382,14.99,1,Pasta,Bolognese Lasagna,2025-02-15 18:10:00,ul. Mysliwska 23,80-283
+ORD0383,12.99,1,Pasta,Fettuccine Alfredo,2025-02-16 19:20:00,ul. Guderskiego 8,80-180
+ORD0383,13.49,1,Pasta,Penne Arrabbiata,2025-02-16 19:20:00,ul. Guderskiego 8,80-180
+ORD0384,19.99,1,Pasta,Penne Arrabbiata,2025-02-17 20:40:00,ul. Cieszynskiego 14,80-809
+ORD0384,12.49,1,Pasta,Pesto Pasta,2025-02-17 20:40:00,ul. Cieszynskiego 14,80-809
+ORD0385,14.99,1,Pasta,Bolognese Lasagna,2025-01-18 13:15:00,ul. Porebskiego 17,80-180
+ORD0385,12.99,1,Pasta,Fettuccine Alfredo,2025-01-18 13:15:00,ul. Porebskiego 17,80-180
+ORD0386,26.99,1,Pasta,Spaghetti Bolognese,2025-02-15 12:30:00,ul. Kartuska 342,80-125
+ORD0386,19.99,1,Pasta,Penne Arrabbiata,2025-02-15 12:30:00,ul. Kartuska 342,80-125
+ORD0387,12.49,1,Pasta,Pesto Pasta,2025-02-25 18:10:00,ul. Mysliwska 23,80-283
+ORD0387,14.99,1,Pasta,Bolognese Lasagna,2025-02-25 18:10:00,ul. Mysliwska 23,80-283
+ORD0388,12.99,1,Pasta,Fettuccine Alfredo,2025-02-16 19:20:00,ul. Guderskiego 8,80-180
+ORD0388,13.49,1,Pasta,Penne Arrabbiata,2025-02-16 19:20:00,ul. Guderskiego 8,80-180
+ORD0389,19.99,1,Pasta,Penne Arrabbiata,2025-02-27 20:40:00,ul. Cieszynskiego 14,80-809
+ORD0389,12.49,1,Pasta,Pesto Pasta,2025-02-27 20:40:00,ul. Cieszynskiego 14,80-809
+ORD0390,14.99,1,Pasta,Bolognese Lasagna,2025-02-18 13:15:00,ul. Porebskiego 17,80-180
+ORD0390,12.99,1,Pasta,Fettuccine Alfredo,2025-02-18 13:15:00,ul. Porebskiego 17,80-180
+ORD0391,26.99,1,Pasta,Spaghetti Bolognese,2025-02-05 12:30:00,ul. Kartuska 342,80-125
+ORD0391,19.99,1,Pasta,Penne Arrabbiata,2025-02-05 12:30:00,ul. Kartuska 342,80-125
+ORD0392,12.49,1,Pasta,Pesto Pasta,2025-02-05 18:10:00,ul. Mysliwska 23,80-283
+ORD0392,14.99,1,Pasta,Bolognese Lasagna,2025-02-05 18:10:00,ul. Mysliwska 23,80-283
+ORD0393,12.99,1,Pasta,Fettuccine Alfredo,2025-02-06 19:20:00,ul. Guderskiego 8,80-180
+ORD0393,13.49,1,Pasta,Penne Arrabbiata,2025-02-06 19:20:00,ul. Guderskiego 8,80-180
+ORD0394,19.99,1,Pasta,Penne Arrabbiata,2025-01-17 20:40:00,ul. Cieszynskiego 14,80-809
+ORD0394,12.49,1,Pasta,Pesto Pasta,2025-01-17 20:40:00,ul. Cieszynskiego 14,80-809
+ORD0395,14.99,1,Pasta,Bolognese Lasagna,2025-01-18 13:15:00,ul. Porebskiego 17,80-180
+ORD0395,12.99,1,Pasta,Fettuccine Alfredo,2025-01-18 13:15:00,ul. Porebskiego 17,80-180
+ORD0005,26.99,2,Pasta,Spaghetti Bolognese,2025-01-08 17:10:00,ul. Chlebnicka 22,80-830
+ORD0006,31.99,1,Pasta,Spaghetti Bolognese,2025-01-10 18:30:00,ul. Kartuska 305,80-125
+ORD0006,12.99,2,Pasta,Fettuccine Alfredo,2025-01-10 18:30:00,ul. Kartuska 305,80-125
+ORD0007,14.99,1,Pasta,Fettuccine Alfredo,2025-01-11 11:00:00,ul. Jaskólcza 19,80-767
+ORD0008,19.99,2,Pasta,Penne Arrabbiata,2025-01-12 13:50:00,ul. Ogarna 87,80-826
+ORD0009,13.49,2,Pasta,Penne Arrabbiata,2025-01-14 14:30:00,ul. Heweliusza 11,80-890
+ORD0010,12.49,1,Pasta,Pesto Pasta,2025-01-15 15:20:00,ul. Lawendowa 5,80-840
+ORD0011,15.49,1,Pasta,Pesto Pasta,2025-01-16 12:10:00,ul. Partyzantów 32,80-254
+ORD0012,14.99,3,Pasta,Bolognese Lasagna,2025-01-17 14:00:00,ul. Kolodziejska 3,80-836
+ORD0013,18.99,1,Pasta,Bolognese Lasagna,2025-01-18 16:45:00,ul. Waly Jagiellonskie 9,80-853
+ORD0014,6.99,2,Salad,Caesar Salad,2025-01-19 18:15:00,ul. Rajska 12,80-850
+ORD0015,9.99,1,Salad,Caesar Salad,2025-01-21 12:30:00,ul. Piwna 26,80-831
+ORD0015,7.49,3,Salad,Greek Salad,2025-01-21 12:30:00,ul. Piwna 26,80-831
+ORD0016,10.49,1,Salad,Greek Salad,2025-01-22 17:50:00,ul. Szeroka 41,80-835
+ORD0017,8.99,2,Salad,Avocado Salad,2025-01-23 15:40:00,ul. Lastadia 17,80-880
+ORD0018,11.99,2,Salad,Avocado Salad,2025-01-24 13:30:00,ul. Lakowa 60,80-769
+ORD0019,3.49,1,Bread,Focaccia Bread,2025-01-25 19:00:00,ul. Straganiarska 15,80-837
+ORD0020,4.99,2,Bread,Focaccia Bread,2025-01-26 12:20:00,ul. Zabi Kruk 8,80-822
+ORD0021,3.99,1,Bread,Garlic Bread,2025-01-28 15:10:00,ul. Czopowa 23,80-882
+ORD0022,5.49,1,Bread,Garlic Bread,2025-01-29 14:00:00,ul. Angielska Grobla 11,80-756
+ORD0023,12.99,2,Drink,Red Wine,2025-01-30 16:40:00,ul. Torunska 18,80-747
+ORD0024,12.99,3,Drink,White Wine,2025-02-01 18:20:00,ul. Stara Stocznia 25,80-862
+ORD0025,2.99,2,Drink,Sparkling Water,2025-02-02 12:00:00,ul. Zielona 9,80-802
+ORD0026,1.99,1,Drink,Sparkling Water,2025-02-03 14:30:00,ul. Walowa 35,80-858
+ORD0027,1.49,3,Drink,Soda,2025-02-04 13:20:00,ul. Trakt Swietego Wojciecha 195,80-017
+ORD0028,2.49,2,Drink,Soda,2025-02-05 15:00:00,ul. Chmielna 101,80-748
+ORD0029,4.99,1,Dessert,Cheesecake,2025-02-06 12:40:00,ul. Szafarnia 5,80-755
+ORD0030,18.99,3,Dessert,Cheesecake,2025-02-07 11:10:00,ul. Nowe Ogrody 23,80-803
+ORD0031,5.49,2,Dessert,Tiramisu,2025-02-08 14:00:00,ul. Polanki 124,80-308
+ORD0033,19.49,1,Dessert,Tiramisu,2025-02-10 12:30:00,ul. Gospody 6,80-344
+ORD0034,12.99,1,Pasta,Fettuccine Alfredo,2025-02-11 14:40:00,ul. Pomorska 94,80-333
+ORD0035,12.49,2,Pasta,Pesto Pasta,2025-02-12 16:00:00,ul. Jelitkowska 15,80-342
+ORD0036,14.99,3,Pasta,Bolognese Lasagna,2025-02-13 14:00:00,ul. Subislawa 23,80-354
+ORD0037,9.99,3,Salad,Caesar Salad,2025-02-14 15:00:00,ul. Piastowska 70,80-363
+ORD0038,19.99,1,Pasta,Penne Arrabbiata,2025-02-15 13:30:00,ul. Obronców Wybrzeza 11,80-398
+ORD0039,18.99,2,Pasta,Bolognese Lasagna,2025-02-16 14:20:00,ul. Kolobrzeska 9,80-394
+ORD0040,18.99,1,Dessert,Cheesecake,2025-02-17 12:30:00,ul. Leborska 18,80-386
+ORD0041,13.49,1,Pasta,Penne Arrabbiata,2025-02-18 13:10:00,ul. Hynka 27,80-465
+ORD0042,5.49,2,Dessert,Tiramisu,2025-02-19 11:30:00,ul. Zlota Karczma 35,80-298
+ORD0043,15.49,2,Pasta,Pesto Pasta,2025-02-20 12:40:00,ul. Slowackiego 50,80-257
+ORD0044,4.99,1,Dessert,Cheesecake,2025-02-21 14:50:00,ul. Wrzeszczanska 21,80-419
+ORD0045,31.99,1,Pasta,Spaghetti Bolognese,2025-02-22 15:20:00,ul. Migowska 77,80-287
+ORD0046,14.99,2,Pasta,Fettuccine Alfredo,2025-02-23 16:30:00,ul. Piecewska 34,80-288
+ORD0047,26.99,2,Pasta,Spaghetti Bolognese,2025-02-24 17:40:00,ul. Mysliwska 47,80-283
+ORD0048,14.99,3,Pasta,Bolognese Lasagna,2025-02-25 12:20:00,ul. Kartuska 400,80-125
+ORD0049,9.99,1,Salad,Caesar Salad,2025-02-26 14:00:00,ul. Jabloniowa 20,80-180
+ORD0050,18.99,1,Dessert,Cheesecake,2025-02-27 13:10:00,ul. Cedrowa 35,80-126
+ORD0051,1.49,3,Drink,Soda,2025-02-28 12:00:00,ul. Warszawska 70,80-180
+ORD0052,12.99,2,Pasta,Fettuccine Alfredo,2025-02-01 13:30:00,ul. Swietokrzyska 97,80-180
+ORD0053,12.49,1,Pasta,Pesto Pasta,2025-02-02 14:40:00,ul. Czluchowska 21,80-180
+ORD0054,1.99,3,Drink,Sparkling Water,2025-02-03 15:50:00,ul. Starogardzka 12,80-180
+ORD0055,15.49,1,Pasta,Pesto Pasta,2025-02-04 11:40:00,ul. Stoczniowców 29,80-299
+ORD0056,8.99,2,Salad,Avocado Salad,2025-02-05 12:30:00,ul. Sucha 17,80-530
+ORD0057,5.49,1,Dessert,Tiramisu,2025-02-06 14:20:00,ul. Stoczniowców 12,80-862
+ORD0058,13.49,2,Pasta,Penne Arrabbiata,2025-02-07 11:10:00,ul. Sucha 7,80-531
+ORD0059,14.99,3,Pasta,Fettuccine Alfredo,2025-02-08 13:30:00,ul. Ptasia 23,80-880
+ORD0060,31.99,2,Pasta,Spaghetti Bolognese,2025-02-09 12:40:00,ul. Rycerska 15,80-855
+ORD0061,2.99,3,Drink,Sparkling Water,2025-02-10 14:30:00,ul. Jesionowa 8,80-261
+ORD0062,19.99,1,Pasta,Penne Arrabbiata,2025-02-11 11:50:00,ul. Browarna 4,80-859
+ORD0063,12.99,3,Pasta,Fettuccine Alfredo,2025-02-12 12:00:00,ul. Wierzbowa 19,80-140
+ORD0064,14.99,2,Pasta,Bolognese Lasagna,2025-02-13 15:20:00,ul. Liliowa 33,80-299
+ORD0065,9.99,2,Salad,Caesar Salad,2025-02-14 14:10:00,ul. Swidnicka 14,80-168
+ORD0066,4.99,1,Dessert,Cheesecake,2025-02-15 13:30:00,ul. Opacka 27,80-338
+ORD0067,13.49,3,Pasta,Penne Arrabbiata,2025-02-16 14:50:00,ul. Karpacka 5,80-144
+ORD0068,18.99,3,Pasta,Bolognese Lasagna,2025-02-17 11:40:00,ul. Kosciuszki 49,80-408
+ORD0069,1.49,2,Drink,Soda,2025-02-18 14:10:00,ul. Startowa 11,80-391
+ORD0070,26.99,2,Pasta,Spaghetti Bolognese,2025-02-19 12:50:00,ul. Polna 6,80-305
+ORD0071,8.99,1,Salad,Avocado Salad,2025-02-20 11:30:00,ul. Górnicza 3,80-314
+ORD0072,5.49,3,Dessert,Tiramisu,2025-02-21 12:20:00,ul. Wczasowa 9,80-516
+ORD0073,26.99,1,Pasta,Spaghetti Bolognese,2025-02-22 14:00:00,ul. Targ Sienny 7,80-806
+ORD0074,26.99,2,Pasta,Spaghetti Bolognese,2025-02-23 13:10:00,ul. Oliwska 41,80-563
+ORD0075,12.99,3,Pasta,Fettuccine Alfredo,2025-02-24 11:30:00,ul. Widokowa 32,80-172
+ORD0076,26.99,2,Pasta,Spaghetti Bolognese,2025-02-25 14:20:00,ul. Krótka 21,80-279
+ORD0077,19.99,2,Pasta,Penne Arrabbiata,2025-02-26 12:00:00,ul. Stalowa 18,80-434
+ORD0078,13.49,1,Pasta,Penne Arrabbiata,2025-02-27 13:40:00,ul. Jantarowa 22,80-347
+ORD0079,14.99,3,Pasta,Bolognese Lasagna,2025-02-28 11:20:00,ul. Wita Stwosza 56,80-312
+ORD0080,31.99,1,Pasta,Spaghetti Bolognese,2025-02-28 14:30:00,ul. Szczesliwa 19,80-176
+ORD0081,14.99,2,Pasta,Bolognese Lasagna,2025-02-28 13:00:00,ul. Bohaterów Getta 8,80-831
+ORD0082,26.99,2,Pasta,Spaghetti Bolognese,2025-02-28 12:10:00,ul. Lódzka 99,80-388
+ORD0083,13.49,3,Pasta,Penne Arrabbiata,2025-02-27 14:40:00,ul. Piastowska 65,80-358
+ORD0084,26.99,1,Pasta,Spaghetti Bolognese,2025-02-26 12:30:00,ul. Jodlowa 77,80-297
+ORD0085,12.49,1,Pasta,Pesto Pasta,2025-02-25 13:40:00,ul. Astronomów 10,80-299
+ORD0086,19.99,3,Pasta,Penne Arrabbiata,2025-02-24 11:10:00,ul. Kamienna 23,80-306
+ORD0087,6.99,2,Salad,Caesar Salad,2025-02-23 14:00:00,ul. Krzyzowa 16,80-165
+ORD0088,31.99,1,Pasta,Spaghetti Bolognese,2025-02-23 13:30:00,ul. Spacerowa 50,80-330
+ORD0089,13.49,3,Pasta,Penne Arrabbiata,2025-02-22 12:40:00,ul. Na Wzgórzu 13,80-282
+ORD0090,15.49,1,Pasta,Pesto Pasta,2025-02-21 14:20:00,ul. Brzozowa 14,80-176
+ORD0091,31.99,1,Pasta,Spaghetti Bolognese,2025-02-20 13:00:00,ul. Fiolkowa 4,80-177
+ORD0092,19.99,3,Pasta,Penne Arrabbiata,2025-02-19 14:10:00,ul. Malczewskiego 55,80-275
+ORD0093,12.49,1,Pasta,Pesto Pasta,2025-02-18 13:20:00,ul. Sloneczna 28,80-180
+ORD0094,12.99,1,Pasta,Fettuccine Alfredo,2025-02-17 11:00:00,ul. Slowackiego 99,80-390
+ORD0095,19.99,1,Pasta,Penne Arrabbiata,2025-02-16 13:10:00,ul. Reduta Wyskok 9,80-706
+ORD0096,12.49,1,Pasta,Pesto Pasta,2025-02-15 14:50:00,ul. Podwale Staromiejskie 3,80-844
+ORD0097,18.99,3,Pasta,Bolognese Lasagna,2025-02-14 11:30:00,ul. Bajeczna 25,80-684

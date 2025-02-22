@@ -68,20 +68,16 @@ FROM orders o
 LEFT JOIN item i ON o.item_id = i.item_id
 LEFT JOIN address a ON o.add_id = a.add_id 
 
-----a query for further visualization for stock's dashboard
-SELECT 
-item_id, 
-sku, 
-item_name, 
-ing_id, 
-ing_name, 
-recipe_quantity, 
-order_quantity*recipe_quantity AS ordered_weight, 
-ing_price/ing_weight AS ing_cost
+--request to track stock balances
+SELECT ing_id, ing_name, inv_quantity-SUM(ord_quantity*rec_quantity) AS stock_level
 FROM
-(SELECT o.item_id, i.sku, i.item_name, r.ing_id, ing.ing_name, r.quantity AS recipe_quantity, SUM(o.quantity) AS order_quantity, ing.ing_weight, ing.ing_price
-FROM orders o
-LEFT JOIN item i ON o.item_id = i.item_id
-LEFT JOIN recipe r ON i.sku = r.recipe_id
-LEFT JOIN ingredient ing ON r.ing_id = ing.ing_id
-GROUP BY o.item_id, i.sku, i.item_name, r.ing_id, ing.ing_name, r.quantity, ing.ing_weight, ing.ing_price) s1
+(SELECT inv.ing_id, ing.ing_name, inv.quantity AS inv_quantity, r.quantity AS rec_quantity, SUM(o.quantity) AS ord_quantity
+FROM inventory inv
+LEFT JOIN recipe r ON inv.ing_id = r.ing_id
+LEFT JOIN ingredient ing ON inv.ing_id = ing.ing_id
+LEFT JOIN item i ON r.recipe_id = i.sku
+LEFT JOIN orders o ON o.item_id = i.item_id
+WHERE created_at > updated_at
+GROUP BY inv.ing_id, ing.ing_name, inv.quantity, r.quantity) s1
+GROUP BY ing_id, ing_name, inv_quantity
+ORDER BY 3
